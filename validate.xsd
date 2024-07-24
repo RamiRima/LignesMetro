@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+
+    <!-- metro is the root element -->
+    <xsd:element name="metro" type="Metro">
+        <xsd:key name="station_key">
+            <xsd:selector xpath="stations/station" />
+            <xsd:field xpath="@station_id" />
+        </xsd:key>
+        <xsd:key name="service_key">
+            <xsd:selector xpath="metro_lines/line" />
+            <xsd:field xpath="@service_id" />
+        </xsd:key>
+        <xsd:keyref name="ref_station" refer="station_key">
+            <xsd:selector xpath="metro_lines/line/station | metro_lines/line/fork/left/station"/>
+            <xsd:field xpath="@station_id"/>
+        </xsd:keyref>
+    </xsd:element>
+
+    <!-- contains all the metro lines then all the stations' details -->
+    <xsd:complexType name="Metro">
+        <xsd:sequence>
+            <xsd:element name="metro_lines" type="Metro_lines" />
+            <xsd:element name="stations" type="Stations" />
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <!-- Metro_line is all the metro lines as the name suggests, service id is unique to each line obv -->
+    <xsd:complexType name="Metro_lines">
+        <xsd:sequence maxOccurs="unbounded">
+            <xsd:element name="line" type="Line">
+                <xsd:unique name="short_name">
+                    <xsd:selector xpath="line" />
+                    <xsd:field xpath="short_name" />
+                </xsd:unique>
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <!-- Details of a single metro line then a list of its stops -->
+    <xsd:complexType name="Line">
+        <xsd:sequence>
+            <xsd:element name="short_name" type="Short_name" />
+            <xsd:element name="long_name_first" type="xsd:string" />
+            <xsd:element name="long_name_last" type="xsd:string" />
+            <xsd:element name="stops" type="Stops" />
+        </xsd:sequence>
+        <xsd:attribute name="service_id" type="Service_id" use="required"/>
+    </xsd:complexType>
+
+    <!-- Line short name regex (1-15 to inculde the future confirmed exansions and some lines have a B after the line number) -->
+    <xsd:simpleType name="Short_name">
+        <xsd:restriction base="xsd:string">
+            <xsd:pattern value="[1-9][0-5]?B?"></xsd:pattern>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <!-- the line's stops are a sequence of stations then a fork if there any then continues to stops, the sequence here is more flexible
+    than what the current lines really are like -->
+    <xsd:complexType name="Stops">
+        <xsd:sequence maxOccurs="unbounded">
+            <xsd:choice>
+                <xsd:element name="station" type="Station" />
+                <xsd:element name="fork" type="Fork" />
+            </xsd:choice>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <!-- a fork in the lines, splits it to left and right, both containing the same details about stations as before -->
+    <xsd:complexType name="Fork">
+        <xsd:sequence>
+            <xsd:element name="left" type="Station_list" />
+            <xsd:element name="right" type="Station_list" />
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <!-- defninig how a station list within the line/fork is like -->
+    <xsd:complexType name="Station_list">
+        <xsd:sequence maxOccurs="unbounded">
+            <xsd:element name="station" type="Station">
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <!-- a station within the line element doesnt have much details, just the id -->
+    <xsd:complexType name="Station">
+        <xsd:simpleContent>
+            <xsd:extension base="xsd:string">
+                <xsd:attribute name="station_id" type="Station_id" use="required"/>
+                <xsd:attribute name="stop_sequence" type="xsd:integer" use="optional"/>
+                <xsd:attribute name="links" type="xsd:string" use="optional"/>
+            </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
+
+    <!-- List of all station at the very end wtih all details, station id of course has to be unique to each station -->
+    <xsd:complexType name="Stations">
+        <xsd:sequence maxOccurs="unbounded">
+            <xsd:element name="station" type="Station_details"></xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <!-- just defining how the station is structured -->
+    <xsd:complexType name="Station_details">
+        <xsd:sequence>
+            <xsd:element name="station_name" type="xsd:string" />
+            <xsd:element name="station_desc" type="xsd:string" />
+            <xsd:element name="station_lat" type="xsd:string" />
+            <xsd:element name="station_lon" type="xsd:string" />
+        </xsd:sequence>
+        <xsd:attribute name="station_id" type="Station_id" use="required"/>
+    </xsd:complexType>
+
+    <!-- attribute station_id regex -->
+    <xsd:simpleType name="Station_id">
+        <xsd:restriction base="xsd:integer">
+            <xsd:pattern value="[0-9]{4}" />
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <!-- attribute service id regex -->
+    <xsd:simpleType name="Service_id">
+        <xsd:restriction base="xsd:integer">
+            <xsd:pattern value="[0-9]{7}" />
+        </xsd:restriction>
+    </xsd:simpleType>
+</xsd:schema>

@@ -1,0 +1,1804 @@
+<!DOCTYPE HTML><svg xmlns="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" width="3500" height="6250">
+   <text text-anchor="start" font-size="10" transform="translate(70,130) rotate(0)">Ligne: 1 - CHATEAU DE VINCENNES -- LA DEFENSE</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,240) rotate(-45)">Château de Vincennes</text>
+   <circle cx="70" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,240) rotate(-45)">Bérault</text>
+   <circle cx="140" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="250" x2="135" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,240) rotate(-45)">Saint-Mandé</text>
+   <circle cx="210" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="250" x2="205" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,240) rotate(-45)">Porte de Vincennes</text>
+   <circle cx="280" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="250" x2="275" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,240) rotate(-45)">Nation</text>
+   <circle cx="350" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="285" y1="250" x2="345" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="350" y1="267" x2="350" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="350" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="348" y="272" base-alignment="middle" font-size="8px">2</text>
+   <line x1="350" y1="287" x2="350" y2="273" stroke="red" stroke_width="3"></line>
+   <circle cx="350" cy="290" stroke="red" fill="red" r="7"></circle>
+   <text x="348" y="292" base-alignment="middle" font-size="8px">6</text>
+   <line x1="350" y1="307" x2="350" y2="293" stroke="red" stroke_width="3"></line>
+   <circle cx="350" cy="310" stroke="red" fill="red" r="7"></circle>
+   <text x="348" y="312" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(420,240) rotate(-45)">Reuilly-Diderot</text>
+   <circle cx="420" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="355" y1="250" x2="415" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="420" y1="267" x2="420" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="420" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="418" y="272" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(490,240) rotate(-45)">Gare de Lyon</text>
+   <circle cx="490" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="425" y1="250" x2="485" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="490" y1="267" x2="490" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="490" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="488" y="272" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(560,240) rotate(-45)">Bastille</text>
+   <circle cx="560" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="495" y1="250" x2="555" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="560" y1="267" x2="560" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="560" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="558" y="272" base-alignment="middle" font-size="8px">5</text>
+   <line x1="560" y1="287" x2="560" y2="273" stroke="red" stroke_width="3"></line>
+   <circle cx="560" cy="290" stroke="red" fill="red" r="7"></circle>
+   <text x="558" y="292" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(630,240) rotate(-45)">Saint-Paul Le Marais</text>
+   <circle cx="630" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="565" y1="250" x2="625" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(700,240) rotate(-45)">Hôtel de Ville</text>
+   <circle cx="700" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="635" y1="250" x2="695" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="700" y1="267" x2="700" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="272" base-alignment="middle" font-size="8px">11</text>
+   <text text-anchor="start" font-size="10" transform="translate(770,240) rotate(-45)">Châtelet</text>
+   <circle cx="770" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="705" y1="250" x2="765" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="770" y1="267" x2="770" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="272" base-alignment="middle" font-size="8px">4</text>
+   <line x1="770" y1="287" x2="770" y2="273" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="290" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="292" base-alignment="middle" font-size="8px">7</text>
+   <line x1="770" y1="307" x2="770" y2="293" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="310" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="312" base-alignment="middle" font-size="8px">11</text>
+   <line x1="770" y1="327" x2="770" y2="313" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="330" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="332" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(840,240) rotate(-45)">Louvre-Rivoli</text>
+   <circle cx="840" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="775" y1="250" x2="835" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(910,240) rotate(-45)">Palais-Royal Musée du Louvre</text>
+   <circle cx="910" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="845" y1="250" x2="905" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="910" y1="267" x2="910" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="272" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(980,240) rotate(-45)">Tuileries</text>
+   <circle cx="980" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="915" y1="250" x2="975" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1050,240) rotate(-45)">Concorde</text>
+   <circle cx="1050" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="985" y1="250" x2="1045" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="1050" y1="267" x2="1050" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="272" base-alignment="middle" font-size="8px">8</text>
+   <line x1="1050" y1="287" x2="1050" y2="273" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="290" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="292" base-alignment="middle" font-size="8px">12</text>
+   <text text-anchor="start" font-size="10" transform="translate(1120,240) rotate(-45)">Champs-Elysées-Clémenceau</text>
+   <circle cx="1120" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1055" y1="250" x2="1115" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="1120" y1="267" x2="1120" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="272" base-alignment="middle" font-size="8px">13</text>
+   <text text-anchor="start" font-size="10" transform="translate(1190,240) rotate(-45)">Franklin-Roosevelt</text>
+   <circle cx="1190" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1125" y1="250" x2="1185" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="1190" y1="267" x2="1190" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="272" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(1260,240) rotate(-45)">George V</text>
+   <circle cx="1260" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1195" y1="250" x2="1255" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1330,240) rotate(-45)">Charles de Gaulle-Etoile</text>
+   <circle cx="1330" cy="250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1265" y1="250" x2="1325" y2="250" stroke="green" stroke_width="4"></line>
+   <line x1="1330" y1="267" x2="1330" y2="253" stroke="red" stroke_width="3"></line>
+   <circle cx="1330" cy="270" stroke="red" fill="red" r="7"></circle>
+   <text x="1328" y="272" base-alignment="middle" font-size="8px">2</text>
+   <line x1="1330" y1="287" x2="1330" y2="273" stroke="red" stroke_width="3"></line>
+   <circle cx="1330" cy="290" stroke="red" fill="red" r="7"></circle>
+   <text x="1328" y="292" base-alignment="middle" font-size="8px">6</text>
+   <text text-anchor="start" font-size="10" transform="translate(1400,240) rotate(-45)">Argentine</text>
+   <circle cx="1400" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1335" y1="250" x2="1395" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1470,240) rotate(-45)">Porte Maillot</text>
+   <circle cx="1470" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1405" y1="250" x2="1465" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1540,240) rotate(-45)">Les Sablons Jardin d'acclimatation</text>
+   <circle cx="1540" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1475" y1="250" x2="1535" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1610,240) rotate(-45)">Pont de Neuilly</text>
+   <circle cx="1610" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1545" y1="250" x2="1605" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1680,240) rotate(-45)">Esplanade de la Défense</text>
+   <circle cx="1680" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1615" y1="250" x2="1675" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1750,240) rotate(-45)">La Défense Grande Arche</text>
+   <circle cx="1750" cy="250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1685" y1="250" x2="1745" y2="250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(70,380) rotate(0)">Ligne: 2 - NATION -- PORTE DAUPHINE</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,490) rotate(-45)">Nation</text>
+   <circle cx="70" cy="500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="70" y1="517" x2="70" y2="503" stroke="red" stroke_width="3"></line>
+   <circle cx="70" cy="520" stroke="red" fill="red" r="7"></circle>
+   <text x="68" y="522" base-alignment="middle" font-size="8px">1</text>
+   <line x1="70" y1="537" x2="70" y2="523" stroke="red" stroke_width="3"></line>
+   <circle cx="70" cy="540" stroke="red" fill="red" r="7"></circle>
+   <text x="68" y="542" base-alignment="middle" font-size="8px">6</text>
+   <line x1="70" y1="557" x2="70" y2="543" stroke="red" stroke_width="3"></line>
+   <circle cx="70" cy="560" stroke="red" fill="red" r="7"></circle>
+   <text x="68" y="562" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(140,490) rotate(-45)">Avron</text>
+   <circle cx="140" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="500" x2="135" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,490) rotate(-45)">Alexandre-Dumas</text>
+   <circle cx="210" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="500" x2="205" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,490) rotate(-45)">Philippe Auguste</text>
+   <circle cx="280" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="500" x2="275" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,490) rotate(-45)">Père-Lachaise</text>
+   <circle cx="350" cy="500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="285" y1="500" x2="345" y2="500" stroke="green" stroke_width="4"></line>
+   <line x1="350" y1="517" x2="350" y2="503" stroke="red" stroke_width="3"></line>
+   <circle cx="350" cy="520" stroke="red" fill="red" r="7"></circle>
+   <text x="348" y="522" base-alignment="middle" font-size="8px">3</text>
+   <text text-anchor="start" font-size="10" transform="translate(420,490) rotate(-45)">Ménilmontant</text>
+   <circle cx="420" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="355" y1="500" x2="415" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(490,490) rotate(-45)">Couronnes</text>
+   <circle cx="490" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="425" y1="500" x2="485" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(560,490) rotate(-45)">Belleville</text>
+   <circle cx="560" cy="500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="495" y1="500" x2="555" y2="500" stroke="green" stroke_width="4"></line>
+   <line x1="560" y1="517" x2="560" y2="503" stroke="red" stroke_width="3"></line>
+   <circle cx="560" cy="520" stroke="red" fill="red" r="7"></circle>
+   <text x="558" y="522" base-alignment="middle" font-size="8px">11</text>
+   <text text-anchor="start" font-size="10" transform="translate(630,490) rotate(-45)">Colonel Fabien</text>
+   <circle cx="630" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="565" y1="500" x2="625" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(700,490) rotate(-45)">Jaurès</text>
+   <circle cx="700" cy="500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="635" y1="500" x2="695" y2="500" stroke="green" stroke_width="4"></line>
+   <line x1="700" y1="517" x2="700" y2="503" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="520" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="522" base-alignment="middle" font-size="8px">5</text>
+   <line x1="700" y1="537" x2="700" y2="523" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="540" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="542" base-alignment="middle" font-size="8px">7B</text>
+   <text text-anchor="start" font-size="10" transform="translate(770,490) rotate(-45)">Stalingrad</text>
+   <circle cx="770" cy="500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="705" y1="500" x2="765" y2="500" stroke="green" stroke_width="4"></line>
+   <line x1="770" y1="517" x2="770" y2="503" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="520" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="522" base-alignment="middle" font-size="8px">5</text>
+   <line x1="770" y1="537" x2="770" y2="523" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="540" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="542" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(840,490) rotate(-45)">La Chapelle</text>
+   <circle cx="840" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="775" y1="500" x2="835" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(910,490) rotate(-45)">Barbès-Rochechouart</text>
+   <circle cx="910" cy="500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="845" y1="500" x2="905" y2="500" stroke="green" stroke_width="4"></line>
+   <line x1="910" y1="517" x2="910" y2="503" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="520" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="522" base-alignment="middle" font-size="8px">4</text>
+   <text text-anchor="start" font-size="10" transform="translate(980,490) rotate(-45)">Anvers</text>
+   <circle cx="980" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="915" y1="500" x2="975" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1050,490) rotate(-45)">Pigalle</text>
+   <circle cx="1050" cy="500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="985" y1="500" x2="1045" y2="500" stroke="green" stroke_width="4"></line>
+   <line x1="1050" y1="517" x2="1050" y2="503" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="520" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="522" base-alignment="middle" font-size="8px">12</text>
+   <text text-anchor="start" font-size="10" transform="translate(1120,490) rotate(-45)">Blanche</text>
+   <circle cx="1120" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1055" y1="500" x2="1115" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1190,490) rotate(-45)">Place de Clichy</text>
+   <circle cx="1190" cy="500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1125" y1="500" x2="1185" y2="500" stroke="green" stroke_width="4"></line>
+   <line x1="1190" y1="517" x2="1190" y2="503" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="520" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="522" base-alignment="middle" font-size="8px">13</text>
+   <text text-anchor="start" font-size="10" transform="translate(1260,490) rotate(-45)">Rome</text>
+   <circle cx="1260" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1195" y1="500" x2="1255" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1330,490) rotate(-45)">Villiers</text>
+   <circle cx="1330" cy="500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1265" y1="500" x2="1325" y2="500" stroke="green" stroke_width="4"></line>
+   <line x1="1330" y1="517" x2="1330" y2="503" stroke="red" stroke_width="3"></line>
+   <circle cx="1330" cy="520" stroke="red" fill="red" r="7"></circle>
+   <text x="1328" y="522" base-alignment="middle" font-size="8px">3</text>
+   <text text-anchor="start" font-size="10" transform="translate(1400,490) rotate(-45)">Monceau</text>
+   <circle cx="1400" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1335" y1="500" x2="1395" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1470,490) rotate(-45)">Courcelles</text>
+   <circle cx="1470" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1405" y1="500" x2="1465" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1540,490) rotate(-45)">Ternes</text>
+   <circle cx="1540" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1475" y1="500" x2="1535" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1610,490) rotate(-45)">Charles de Gaulle-Etoile</text>
+   <circle cx="1610" cy="500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1545" y1="500" x2="1605" y2="500" stroke="green" stroke_width="4"></line>
+   <line x1="1610" y1="517" x2="1610" y2="503" stroke="red" stroke_width="3"></line>
+   <circle cx="1610" cy="520" stroke="red" fill="red" r="7"></circle>
+   <text x="1608" y="522" base-alignment="middle" font-size="8px">1</text>
+   <line x1="1610" y1="537" x2="1610" y2="523" stroke="red" stroke_width="3"></line>
+   <circle cx="1610" cy="540" stroke="red" fill="red" r="7"></circle>
+   <text x="1608" y="542" base-alignment="middle" font-size="8px">6</text>
+   <text text-anchor="start" font-size="10" transform="translate(1680,490) rotate(-45)">Victor Hugo</text>
+   <circle cx="1680" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1615" y1="500" x2="1675" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1750,490) rotate(-45)">Porte Dauphine Maréchal de Lattre de Tassigny</text>
+   <circle cx="1750" cy="500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1685" y1="500" x2="1745" y2="500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(70,630) rotate(0)">Ligne: 3 - GALLIENI -- PONT DE LEVALLOIS - BECON</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,740) rotate(-45)">Gallieni Parc de Bagnolet</text>
+   <circle cx="70" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,740) rotate(-45)">Porte de Bagnolet</text>
+   <circle cx="140" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="750" x2="135" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,740) rotate(-45)">Gambetta</text>
+   <circle cx="210" cy="750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="145" y1="750" x2="205" y2="750" stroke="green" stroke_width="4"></line>
+   <line x1="210" y1="767" x2="210" y2="753" stroke="red" stroke_width="3"></line>
+   <circle cx="210" cy="770" stroke="red" fill="red" r="7"></circle>
+   <text x="208" y="772" base-alignment="middle" font-size="8px">3B</text>
+   <text text-anchor="start" font-size="10" transform="translate(280,740) rotate(-45)">Père-Lachaise</text>
+   <circle cx="280" cy="750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="215" y1="750" x2="275" y2="750" stroke="green" stroke_width="4"></line>
+   <line x1="280" y1="767" x2="280" y2="753" stroke="red" stroke_width="3"></line>
+   <circle cx="280" cy="770" stroke="red" fill="red" r="7"></circle>
+   <text x="278" y="772" base-alignment="middle" font-size="8px">2</text>
+   <text text-anchor="start" font-size="10" transform="translate(350,740) rotate(-45)">Rue Saint-Maur</text>
+   <circle cx="350" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="750" x2="345" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,740) rotate(-45)">Parmentier</text>
+   <circle cx="420" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="355" y1="750" x2="415" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(490,740) rotate(-45)">République</text>
+   <circle cx="490" cy="750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="425" y1="750" x2="485" y2="750" stroke="green" stroke_width="4"></line>
+   <line x1="490" y1="767" x2="490" y2="753" stroke="red" stroke_width="3"></line>
+   <circle cx="490" cy="770" stroke="red" fill="red" r="7"></circle>
+   <text x="488" y="772" base-alignment="middle" font-size="8px">5</text>
+   <line x1="490" y1="787" x2="490" y2="773" stroke="red" stroke_width="3"></line>
+   <circle cx="490" cy="790" stroke="red" fill="red" r="7"></circle>
+   <text x="488" y="792" base-alignment="middle" font-size="8px">8</text>
+   <line x1="490" y1="807" x2="490" y2="793" stroke="red" stroke_width="3"></line>
+   <circle cx="490" cy="810" stroke="red" fill="red" r="7"></circle>
+   <text x="488" y="812" base-alignment="middle" font-size="8px">9</text>
+   <line x1="490" y1="827" x2="490" y2="813" stroke="red" stroke_width="3"></line>
+   <circle cx="490" cy="830" stroke="red" fill="red" r="7"></circle>
+   <text x="488" y="832" base-alignment="middle" font-size="8px">11</text>
+   <text text-anchor="start" font-size="10" transform="translate(560,740) rotate(-45)">Temple</text>
+   <circle cx="560" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="495" y1="750" x2="555" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(630,740) rotate(-45)">Arts-et-Métiers</text>
+   <circle cx="630" cy="750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="565" y1="750" x2="625" y2="750" stroke="green" stroke_width="4"></line>
+   <line x1="630" y1="767" x2="630" y2="753" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="770" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="772" base-alignment="middle" font-size="8px">11</text>
+   <text text-anchor="start" font-size="10" transform="translate(700,740) rotate(-45)">Réaumur-Sébastopol</text>
+   <circle cx="700" cy="750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="635" y1="750" x2="695" y2="750" stroke="green" stroke_width="4"></line>
+   <line x1="700" y1="767" x2="700" y2="753" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="770" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="772" base-alignment="middle" font-size="8px">4</text>
+   <text text-anchor="start" font-size="10" transform="translate(770,740) rotate(-45)">Sentier</text>
+   <circle cx="770" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="705" y1="750" x2="765" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(840,740) rotate(-45)">Bourse</text>
+   <circle cx="840" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="775" y1="750" x2="835" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(910,740) rotate(-45)">Quatre Septembre</text>
+   <circle cx="910" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="845" y1="750" x2="905" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(980,740) rotate(-45)">Opéra</text>
+   <circle cx="980" cy="750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="915" y1="750" x2="975" y2="750" stroke="green" stroke_width="4"></line>
+   <line x1="980" y1="767" x2="980" y2="753" stroke="red" stroke_width="3"></line>
+   <circle cx="980" cy="770" stroke="red" fill="red" r="7"></circle>
+   <text x="978" y="772" base-alignment="middle" font-size="8px">7</text>
+   <line x1="980" y1="787" x2="980" y2="773" stroke="red" stroke_width="3"></line>
+   <circle cx="980" cy="790" stroke="red" fill="red" r="7"></circle>
+   <text x="978" y="792" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(1050,740) rotate(-45)">Havre-Caumartin</text>
+   <circle cx="1050" cy="750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="985" y1="750" x2="1045" y2="750" stroke="green" stroke_width="4"></line>
+   <line x1="1050" y1="767" x2="1050" y2="753" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="770" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="772" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(1120,740) rotate(-45)">Saint-Lazare</text>
+   <circle cx="1120" cy="750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1055" y1="750" x2="1115" y2="750" stroke="green" stroke_width="4"></line>
+   <line x1="1120" y1="767" x2="1120" y2="753" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="770" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="772" base-alignment="middle" font-size="8px">12</text>
+   <line x1="1120" y1="787" x2="1120" y2="773" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="790" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="792" base-alignment="middle" font-size="8px">13</text>
+   <line x1="1120" y1="807" x2="1120" y2="793" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="810" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="812" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(1190,740) rotate(-45)">Europe</text>
+   <circle cx="1190" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1125" y1="750" x2="1185" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1260,740) rotate(-45)">Villiers</text>
+   <circle cx="1260" cy="750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1195" y1="750" x2="1255" y2="750" stroke="green" stroke_width="4"></line>
+   <line x1="1260" y1="767" x2="1260" y2="753" stroke="red" stroke_width="3"></line>
+   <circle cx="1260" cy="770" stroke="red" fill="red" r="7"></circle>
+   <text x="1258" y="772" base-alignment="middle" font-size="8px">2</text>
+   <text text-anchor="start" font-size="10" transform="translate(1330,740) rotate(-45)">Malesherbes</text>
+   <circle cx="1330" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1265" y1="750" x2="1325" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1400,740) rotate(-45)">Wagram</text>
+   <circle cx="1400" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1335" y1="750" x2="1395" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1470,740) rotate(-45)">Pereire</text>
+   <circle cx="1470" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1405" y1="750" x2="1465" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1540,740) rotate(-45)">Porte de Champerret</text>
+   <circle cx="1540" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1475" y1="750" x2="1535" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1610,740) rotate(-45)">Louise Michel</text>
+   <circle cx="1610" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1545" y1="750" x2="1605" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1680,740) rotate(-45)">Anatole-France</text>
+   <circle cx="1680" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1615" y1="750" x2="1675" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1750,740) rotate(-45)">Pont de Levallois-Bécon</text>
+   <circle cx="1750" cy="750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1685" y1="750" x2="1745" y2="750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(70,880) rotate(0)">Ligne: 4 - PORTE DE CLIGNANCOURT -- MAIRIE DE MONTROUGE</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,990) rotate(-45)">Porte de Clignancourt</text>
+   <circle cx="70" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,990) rotate(-45)">Simplon</text>
+   <circle cx="140" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="1000" x2="135" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,990) rotate(-45)">Marcadet-Poissonniers</text>
+   <circle cx="210" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="145" y1="1000" x2="205" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="210" y1="1017" x2="210" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="210" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="208" y="1022" base-alignment="middle" font-size="8px">12</text>
+   <text text-anchor="start" font-size="10" transform="translate(280,990) rotate(-45)">Château Rouge</text>
+   <circle cx="280" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="1000" x2="275" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,990) rotate(-45)">Barbès-Rochechouart</text>
+   <circle cx="350" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="285" y1="1000" x2="345" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="350" y1="1017" x2="350" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="350" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="348" y="1022" base-alignment="middle" font-size="8px">2</text>
+   <text text-anchor="start" font-size="10" transform="translate(420,990) rotate(-45)">Gare du Nord</text>
+   <circle cx="420" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="355" y1="1000" x2="415" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="420" y1="1017" x2="420" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="420" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="418" y="1022" base-alignment="middle" font-size="8px">5</text>
+   <text text-anchor="start" font-size="10" transform="translate(490,990) rotate(-45)">Gare de l'Est Verdun</text>
+   <circle cx="490" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="425" y1="1000" x2="485" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="490" y1="1017" x2="490" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="490" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="488" y="1022" base-alignment="middle" font-size="8px">5</text>
+   <line x1="490" y1="1037" x2="490" y2="1023" stroke="red" stroke_width="3"></line>
+   <circle cx="490" cy="1040" stroke="red" fill="red" r="7"></circle>
+   <text x="488" y="1042" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(560,990) rotate(-45)">Château d'Eau</text>
+   <circle cx="560" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="495" y1="1000" x2="555" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(630,990) rotate(-45)">Strasbourg-Saint-Denis</text>
+   <circle cx="630" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="565" y1="1000" x2="625" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="630" y1="1017" x2="630" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="1022" base-alignment="middle" font-size="8px">8</text>
+   <line x1="630" y1="1037" x2="630" y2="1023" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="1040" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="1042" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(700,990) rotate(-45)">Réaumur-Sébastopol</text>
+   <circle cx="700" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="635" y1="1000" x2="695" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="700" y1="1017" x2="700" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="1022" base-alignment="middle" font-size="8px">3</text>
+   <text text-anchor="start" font-size="10" transform="translate(770,990) rotate(-45)">Etienne Marcel</text>
+   <circle cx="770" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="705" y1="1000" x2="765" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(840,990) rotate(-45)">Les Halles</text>
+   <circle cx="840" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="775" y1="1000" x2="835" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(910,990) rotate(-45)">Châtelet</text>
+   <circle cx="910" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="845" y1="1000" x2="905" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="910" y1="1017" x2="910" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="1022" base-alignment="middle" font-size="8px">1</text>
+   <line x1="910" y1="1037" x2="910" y2="1023" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="1040" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="1042" base-alignment="middle" font-size="8px">7</text>
+   <line x1="910" y1="1057" x2="910" y2="1043" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="1060" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="1062" base-alignment="middle" font-size="8px">11</text>
+   <line x1="910" y1="1077" x2="910" y2="1063" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="1080" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="1082" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(980,990) rotate(-45)">Cité</text>
+   <circle cx="980" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="915" y1="1000" x2="975" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1050,990) rotate(-45)">Saint-Michel</text>
+   <circle cx="1050" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="985" y1="1000" x2="1045" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1120,990) rotate(-45)">Odéon</text>
+   <circle cx="1120" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1055" y1="1000" x2="1115" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="1120" y1="1017" x2="1120" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="1022" base-alignment="middle" font-size="8px">10</text>
+   <text text-anchor="start" font-size="10" transform="translate(1190,990) rotate(-45)">Saint-Germain des Prés</text>
+   <circle cx="1190" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1125" y1="1000" x2="1185" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1260,990) rotate(-45)">Saint-Sulpice</text>
+   <circle cx="1260" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1195" y1="1000" x2="1255" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1330,990) rotate(-45)">Saint-Placide</text>
+   <circle cx="1330" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1265" y1="1000" x2="1325" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1400,990) rotate(-45)">Montparnasse-Bienvenue</text>
+   <circle cx="1400" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1335" y1="1000" x2="1395" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="1400" y1="1017" x2="1400" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="1400" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="1398" y="1022" base-alignment="middle" font-size="8px">6</text>
+   <line x1="1400" y1="1037" x2="1400" y2="1023" stroke="red" stroke_width="3"></line>
+   <circle cx="1400" cy="1040" stroke="red" fill="red" r="7"></circle>
+   <text x="1398" y="1042" base-alignment="middle" font-size="8px">12</text>
+   <line x1="1400" y1="1057" x2="1400" y2="1043" stroke="red" stroke_width="3"></line>
+   <circle cx="1400" cy="1060" stroke="red" fill="red" r="7"></circle>
+   <text x="1398" y="1062" base-alignment="middle" font-size="8px">13</text>
+   <text text-anchor="start" font-size="10" transform="translate(1470,990) rotate(-45)">Vavin</text>
+   <circle cx="1470" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1405" y1="1000" x2="1465" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1540,990) rotate(-45)">Raspail</text>
+   <circle cx="1540" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1475" y1="1000" x2="1535" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="1540" y1="1017" x2="1540" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="1540" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="1538" y="1022" base-alignment="middle" font-size="8px">6</text>
+   <text text-anchor="start" font-size="10" transform="translate(1610,990) rotate(-45)">Denfert-Rochereau</text>
+   <circle cx="1610" cy="1000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1545" y1="1000" x2="1605" y2="1000" stroke="green" stroke_width="4"></line>
+   <line x1="1610" y1="1017" x2="1610" y2="1003" stroke="red" stroke_width="3"></line>
+   <circle cx="1610" cy="1020" stroke="red" fill="red" r="7"></circle>
+   <text x="1608" y="1022" base-alignment="middle" font-size="8px">6</text>
+   <text text-anchor="start" font-size="10" transform="translate(1680,990) rotate(-45)">Mouton-Duvernet</text>
+   <circle cx="1680" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1615" y1="1000" x2="1675" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1750,990) rotate(-45)">Alésia</text>
+   <circle cx="1750" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1685" y1="1000" x2="1745" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1820,990) rotate(-45)">Porte d'Orléans Général Leclerc</text>
+   <circle cx="1820" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1755" y1="1000" x2="1815" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1890,990) rotate(-45)">Mairie de Montrouge</text>
+   <circle cx="1890" cy="1000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1825" y1="1000" x2="1885" y2="1000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(70,1130) rotate(0)">Ligne: 5 - BOBIGNY - PABLO PICASSO -- PLACE D'ITALIE</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,1240) rotate(-45)">Bobigny-Pablo-Picasso</text>
+   <circle cx="70" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,1240) rotate(-45)">Bobigny-Pantin Raymond Queneau</text>
+   <circle cx="140" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="1250" x2="135" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,1240) rotate(-45)">Eglise de Pantin</text>
+   <circle cx="210" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="1250" x2="205" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,1240) rotate(-45)">Hoche</text>
+   <circle cx="280" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="1250" x2="275" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,1240) rotate(-45)">Porte de Pantin</text>
+   <circle cx="350" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="1250" x2="345" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,1240) rotate(-45)">Ourcq</text>
+   <circle cx="420" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="355" y1="1250" x2="415" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(490,1240) rotate(-45)">Laumière</text>
+   <circle cx="490" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="425" y1="1250" x2="485" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(560,1240) rotate(-45)">Jaurès</text>
+   <circle cx="560" cy="1250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="495" y1="1250" x2="555" y2="1250" stroke="green" stroke_width="4"></line>
+   <line x1="560" y1="1267" x2="560" y2="1253" stroke="red" stroke_width="3"></line>
+   <circle cx="560" cy="1270" stroke="red" fill="red" r="7"></circle>
+   <text x="558" y="1272" base-alignment="middle" font-size="8px">2</text>
+   <line x1="560" y1="1287" x2="560" y2="1273" stroke="red" stroke_width="3"></line>
+   <circle cx="560" cy="1290" stroke="red" fill="red" r="7"></circle>
+   <text x="558" y="1292" base-alignment="middle" font-size="8px">7B</text>
+   <text text-anchor="start" font-size="10" transform="translate(630,1240) rotate(-45)">Stalingrad</text>
+   <circle cx="630" cy="1250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="565" y1="1250" x2="625" y2="1250" stroke="green" stroke_width="4"></line>
+   <line x1="630" y1="1267" x2="630" y2="1253" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="1270" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="1272" base-alignment="middle" font-size="8px">2</text>
+   <line x1="630" y1="1287" x2="630" y2="1273" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="1290" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="1292" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(700,1240) rotate(-45)">Gare du Nord</text>
+   <circle cx="700" cy="1250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="635" y1="1250" x2="695" y2="1250" stroke="green" stroke_width="4"></line>
+   <line x1="700" y1="1267" x2="700" y2="1253" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="1270" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="1272" base-alignment="middle" font-size="8px">4</text>
+   <text text-anchor="start" font-size="10" transform="translate(770,1240) rotate(-45)">Gare de l'Est Verdun</text>
+   <circle cx="770" cy="1250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="705" y1="1250" x2="765" y2="1250" stroke="green" stroke_width="4"></line>
+   <line x1="770" y1="1267" x2="770" y2="1253" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="1270" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="1272" base-alignment="middle" font-size="8px">4</text>
+   <line x1="770" y1="1287" x2="770" y2="1273" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="1290" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="1292" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(840,1240) rotate(-45)">Jacques-Bonsergent</text>
+   <circle cx="840" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="775" y1="1250" x2="835" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(910,1240) rotate(-45)">République</text>
+   <circle cx="910" cy="1250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="845" y1="1250" x2="905" y2="1250" stroke="green" stroke_width="4"></line>
+   <line x1="910" y1="1267" x2="910" y2="1253" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="1270" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="1272" base-alignment="middle" font-size="8px">3</text>
+   <line x1="910" y1="1287" x2="910" y2="1273" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="1290" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="1292" base-alignment="middle" font-size="8px">8</text>
+   <line x1="910" y1="1307" x2="910" y2="1293" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="1310" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="1312" base-alignment="middle" font-size="8px">9</text>
+   <line x1="910" y1="1327" x2="910" y2="1313" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="1330" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="1332" base-alignment="middle" font-size="8px">11</text>
+   <text text-anchor="start" font-size="10" transform="translate(980,1240) rotate(-45)">Oberkampf</text>
+   <circle cx="980" cy="1250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="915" y1="1250" x2="975" y2="1250" stroke="green" stroke_width="4"></line>
+   <line x1="980" y1="1267" x2="980" y2="1253" stroke="red" stroke_width="3"></line>
+   <circle cx="980" cy="1270" stroke="red" fill="red" r="7"></circle>
+   <text x="978" y="1272" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(1050,1240) rotate(-45)">Richard-Lenoir</text>
+   <circle cx="1050" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="985" y1="1250" x2="1045" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1120,1240) rotate(-45)">Bréguet-Sabin</text>
+   <circle cx="1120" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1055" y1="1250" x2="1115" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1190,1240) rotate(-45)">Bastille</text>
+   <circle cx="1190" cy="1250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1125" y1="1250" x2="1185" y2="1250" stroke="green" stroke_width="4"></line>
+   <line x1="1190" y1="1267" x2="1190" y2="1253" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="1270" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="1272" base-alignment="middle" font-size="8px">1</text>
+   <line x1="1190" y1="1287" x2="1190" y2="1273" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="1290" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="1292" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(1260,1240) rotate(-45)">Quai de la Rapée</text>
+   <circle cx="1260" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1195" y1="1250" x2="1255" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1330,1240) rotate(-45)">Gare d'Austerlitz</text>
+   <circle cx="1330" cy="1250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1265" y1="1250" x2="1325" y2="1250" stroke="green" stroke_width="4"></line>
+   <line x1="1330" y1="1267" x2="1330" y2="1253" stroke="red" stroke_width="3"></line>
+   <circle cx="1330" cy="1270" stroke="red" fill="red" r="7"></circle>
+   <text x="1328" y="1272" base-alignment="middle" font-size="8px">10</text>
+   <text text-anchor="start" font-size="10" transform="translate(1400,1240) rotate(-45)">Saint-Marcel</text>
+   <circle cx="1400" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1335" y1="1250" x2="1395" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1470,1240) rotate(-45)">Campo-Formio</text>
+   <circle cx="1470" cy="1250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1405" y1="1250" x2="1465" y2="1250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1540,1240) rotate(-45)">Place d'Italie</text>
+   <circle cx="1540" cy="1250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1475" y1="1250" x2="1535" y2="1250" stroke="green" stroke_width="4"></line>
+   <line x1="1540" y1="1267" x2="1540" y2="1253" stroke="red" stroke_width="3"></line>
+   <circle cx="1540" cy="1270" stroke="red" fill="red" r="7"></circle>
+   <text x="1538" y="1272" base-alignment="middle" font-size="8px">6</text>
+   <line x1="1540" y1="1287" x2="1540" y2="1273" stroke="red" stroke_width="3"></line>
+   <circle cx="1540" cy="1290" stroke="red" fill="red" r="7"></circle>
+   <text x="1538" y="1292" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,1380) rotate(0)">Ligne: 6 - NATION -- CHARLES DE GAULLE - ETOILE</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,1490) rotate(-45)">Nation</text>
+   <circle cx="70" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="70" y1="1517" x2="70" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="70" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="68" y="1522" base-alignment="middle" font-size="8px">1</text>
+   <line x1="70" y1="1537" x2="70" y2="1523" stroke="red" stroke_width="3"></line>
+   <circle cx="70" cy="1540" stroke="red" fill="red" r="7"></circle>
+   <text x="68" y="1542" base-alignment="middle" font-size="8px">2</text>
+   <line x1="70" y1="1557" x2="70" y2="1543" stroke="red" stroke_width="3"></line>
+   <circle cx="70" cy="1560" stroke="red" fill="red" r="7"></circle>
+   <text x="68" y="1562" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(140,1490) rotate(-45)">Picpus</text>
+   <circle cx="140" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="1500" x2="135" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,1490) rotate(-45)">Bel-Air</text>
+   <circle cx="210" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="1500" x2="205" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,1490) rotate(-45)">Daumesnil Félix Eboué</text>
+   <circle cx="280" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="215" y1="1500" x2="275" y2="1500" stroke="green" stroke_width="4"></line>
+   <line x1="280" y1="1517" x2="280" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="280" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="278" y="1522" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(350,1490) rotate(-45)">Dugommier</text>
+   <circle cx="350" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="1500" x2="345" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,1490) rotate(-45)">Bercy</text>
+   <circle cx="420" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="355" y1="1500" x2="415" y2="1500" stroke="green" stroke_width="4"></line>
+   <line x1="420" y1="1517" x2="420" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="420" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="418" y="1522" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(490,1490) rotate(-45)">Quai de la Gare</text>
+   <circle cx="490" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="425" y1="1500" x2="485" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(560,1490) rotate(-45)">Chevaleret</text>
+   <circle cx="560" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="495" y1="1500" x2="555" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(630,1490) rotate(-45)">Nationale</text>
+   <circle cx="630" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="565" y1="1500" x2="625" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(700,1490) rotate(-45)">Place d'Italie</text>
+   <circle cx="700" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="635" y1="1500" x2="695" y2="1500" stroke="green" stroke_width="4"></line>
+   <line x1="700" y1="1517" x2="700" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="1522" base-alignment="middle" font-size="8px">5</text>
+   <line x1="700" y1="1537" x2="700" y2="1523" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="1540" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="1542" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(770,1490) rotate(-45)">Corvisart</text>
+   <circle cx="770" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="705" y1="1500" x2="765" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(840,1490) rotate(-45)">Glacière</text>
+   <circle cx="840" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="775" y1="1500" x2="835" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(910,1490) rotate(-45)">Saint-Jacques</text>
+   <circle cx="910" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="845" y1="1500" x2="905" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(980,1490) rotate(-45)">Denfert-Rochereau</text>
+   <circle cx="980" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="915" y1="1500" x2="975" y2="1500" stroke="green" stroke_width="4"></line>
+   <line x1="980" y1="1517" x2="980" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="980" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="978" y="1522" base-alignment="middle" font-size="8px">4</text>
+   <text text-anchor="start" font-size="10" transform="translate(1050,1490) rotate(-45)">Raspail</text>
+   <circle cx="1050" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="985" y1="1500" x2="1045" y2="1500" stroke="green" stroke_width="4"></line>
+   <line x1="1050" y1="1517" x2="1050" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="1522" base-alignment="middle" font-size="8px">4</text>
+   <text text-anchor="start" font-size="10" transform="translate(1120,1490) rotate(-45)">Edgar-Quinet</text>
+   <circle cx="1120" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1055" y1="1500" x2="1115" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1190,1490) rotate(-45)">Montparnasse-Bienvenue</text>
+   <circle cx="1190" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1125" y1="1500" x2="1185" y2="1500" stroke="green" stroke_width="4"></line>
+   <line x1="1190" y1="1517" x2="1190" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="1522" base-alignment="middle" font-size="8px">4</text>
+   <line x1="1190" y1="1537" x2="1190" y2="1523" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="1540" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="1542" base-alignment="middle" font-size="8px">12</text>
+   <line x1="1190" y1="1557" x2="1190" y2="1543" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="1560" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="1562" base-alignment="middle" font-size="8px">13</text>
+   <text text-anchor="start" font-size="10" transform="translate(1260,1490) rotate(-45)">Pasteur</text>
+   <circle cx="1260" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1195" y1="1500" x2="1255" y2="1500" stroke="green" stroke_width="4"></line>
+   <line x1="1260" y1="1517" x2="1260" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="1260" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="1258" y="1522" base-alignment="middle" font-size="8px">12</text>
+   <text text-anchor="start" font-size="10" transform="translate(1330,1490) rotate(-45)">Sèvres-Lecourbe</text>
+   <circle cx="1330" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1265" y1="1500" x2="1325" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1400,1490) rotate(-45)">Cambronne</text>
+   <circle cx="1400" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1335" y1="1500" x2="1395" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1470,1490) rotate(-45)">La Motte-Picquet-Grenelle</text>
+   <circle cx="1470" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1405" y1="1500" x2="1465" y2="1500" stroke="green" stroke_width="4"></line>
+   <line x1="1470" y1="1517" x2="1470" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="1470" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="1468" y="1522" base-alignment="middle" font-size="8px">8</text>
+   <line x1="1470" y1="1537" x2="1470" y2="1523" stroke="red" stroke_width="3"></line>
+   <circle cx="1470" cy="1540" stroke="red" fill="red" r="7"></circle>
+   <text x="1468" y="1542" base-alignment="middle" font-size="8px">10</text>
+   <text text-anchor="start" font-size="10" transform="translate(1540,1490) rotate(-45)">Dupleix</text>
+   <circle cx="1540" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1475" y1="1500" x2="1535" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1610,1490) rotate(-45)">Bir-Hakeim Grenelle</text>
+   <circle cx="1610" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1545" y1="1500" x2="1605" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1680,1490) rotate(-45)">Passy</text>
+   <circle cx="1680" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1615" y1="1500" x2="1675" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1750,1490) rotate(-45)">Trocadéro</text>
+   <circle cx="1750" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1685" y1="1500" x2="1745" y2="1500" stroke="green" stroke_width="4"></line>
+   <line x1="1750" y1="1517" x2="1750" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="1750" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="1748" y="1522" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(1820,1490) rotate(-45)">Boissière</text>
+   <circle cx="1820" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1755" y1="1500" x2="1815" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1890,1490) rotate(-45)">Kléber</text>
+   <circle cx="1890" cy="1500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1825" y1="1500" x2="1885" y2="1500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1960,1490) rotate(-45)">Charles de Gaulle-Etoile</text>
+   <circle cx="1960" cy="1500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1895" y1="1500" x2="1955" y2="1500" stroke="green" stroke_width="4"></line>
+   <line x1="1960" y1="1517" x2="1960" y2="1503" stroke="red" stroke_width="3"></line>
+   <circle cx="1960" cy="1520" stroke="red" fill="red" r="7"></circle>
+   <text x="1958" y="1522" base-alignment="middle" font-size="8px">1</text>
+   <line x1="1960" y1="1537" x2="1960" y2="1523" stroke="red" stroke_width="3"></line>
+   <circle cx="1960" cy="1540" stroke="red" fill="red" r="7"></circle>
+   <text x="1958" y="1542" base-alignment="middle" font-size="8px">2</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,1630) rotate(0)">Ligne: 7 - LA COURNEUVE - 8 MAI 1945 -- VILLEJUIF-L. ARAGON / MAIRIE D'IVRY</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,1740) rotate(-45)">La Courneuve-8-Mai-1945</text>
+   <circle cx="70" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,1740) rotate(-45)">Fort d'Aubervilliers</text>
+   <circle cx="140" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="1750" x2="135" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,1740) rotate(-45)">Aubervilliers Pantin 4 Chemins</text>
+   <circle cx="210" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="1750" x2="205" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,1740) rotate(-45)">Porte de la Villette</text>
+   <circle cx="280" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="1750" x2="275" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,1740) rotate(-45)">Corentin-Cariou</text>
+   <circle cx="350" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="1750" x2="345" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,1740) rotate(-45)">Crimée</text>
+   <circle cx="420" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="355" y1="1750" x2="415" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(490,1740) rotate(-45)">Riquet</text>
+   <circle cx="490" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="425" y1="1750" x2="485" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(560,1740) rotate(-45)">Stalingrad</text>
+   <circle cx="560" cy="1750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="495" y1="1750" x2="555" y2="1750" stroke="green" stroke_width="4"></line>
+   <line x1="560" y1="1767" x2="560" y2="1753" stroke="red" stroke_width="3"></line>
+   <circle cx="560" cy="1770" stroke="red" fill="red" r="7"></circle>
+   <text x="558" y="1772" base-alignment="middle" font-size="8px">2</text>
+   <line x1="560" y1="1787" x2="560" y2="1773" stroke="red" stroke_width="3"></line>
+   <circle cx="560" cy="1790" stroke="red" fill="red" r="7"></circle>
+   <text x="558" y="1792" base-alignment="middle" font-size="8px">5</text>
+   <text text-anchor="start" font-size="10" transform="translate(630,1740) rotate(-45)">Louis Blanc</text>
+   <circle cx="630" cy="1750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="565" y1="1750" x2="625" y2="1750" stroke="green" stroke_width="4"></line>
+   <line x1="630" y1="1767" x2="630" y2="1753" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="1770" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="1772" base-alignment="middle" font-size="8px">7B</text>
+   <text text-anchor="start" font-size="10" transform="translate(700,1740) rotate(-45)">Château Landon</text>
+   <circle cx="700" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="635" y1="1750" x2="695" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(770,1740) rotate(-45)">Gare de l'Est Verdun</text>
+   <circle cx="770" cy="1750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="705" y1="1750" x2="765" y2="1750" stroke="green" stroke_width="4"></line>
+   <line x1="770" y1="1767" x2="770" y2="1753" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="1770" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="1772" base-alignment="middle" font-size="8px">4</text>
+   <line x1="770" y1="1787" x2="770" y2="1773" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="1790" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="1792" base-alignment="middle" font-size="8px">5</text>
+   <text text-anchor="start" font-size="10" transform="translate(840,1740) rotate(-45)">Poissonnière</text>
+   <circle cx="840" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="775" y1="1750" x2="835" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(910,1740) rotate(-45)">Cadet</text>
+   <circle cx="910" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="845" y1="1750" x2="905" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(980,1740) rotate(-45)">Le Peletier</text>
+   <circle cx="980" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="915" y1="1750" x2="975" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1050,1740) rotate(-45)">Chaussée d'Antin La Fayette</text>
+   <circle cx="1050" cy="1750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="985" y1="1750" x2="1045" y2="1750" stroke="green" stroke_width="4"></line>
+   <line x1="1050" y1="1767" x2="1050" y2="1753" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="1770" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="1772" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(1120,1740) rotate(-45)">Opéra</text>
+   <circle cx="1120" cy="1750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1055" y1="1750" x2="1115" y2="1750" stroke="green" stroke_width="4"></line>
+   <line x1="1120" y1="1767" x2="1120" y2="1753" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="1770" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="1772" base-alignment="middle" font-size="8px">3</text>
+   <line x1="1120" y1="1787" x2="1120" y2="1773" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="1790" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="1792" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(1190,1740) rotate(-45)">Pyramides</text>
+   <circle cx="1190" cy="1750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1125" y1="1750" x2="1185" y2="1750" stroke="green" stroke_width="4"></line>
+   <line x1="1190" y1="1767" x2="1190" y2="1753" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="1770" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="1772" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(1260,1740) rotate(-45)">Palais-Royal Musée du Louvre</text>
+   <circle cx="1260" cy="1750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1195" y1="1750" x2="1255" y2="1750" stroke="green" stroke_width="4"></line>
+   <line x1="1260" y1="1767" x2="1260" y2="1753" stroke="red" stroke_width="3"></line>
+   <circle cx="1260" cy="1770" stroke="red" fill="red" r="7"></circle>
+   <text x="1258" y="1772" base-alignment="middle" font-size="8px">1</text>
+   <text text-anchor="start" font-size="10" transform="translate(1330,1740) rotate(-45)">Pont Neuf</text>
+   <circle cx="1330" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1265" y1="1750" x2="1325" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1400,1740) rotate(-45)">Châtelet</text>
+   <circle cx="1400" cy="1750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1335" y1="1750" x2="1395" y2="1750" stroke="green" stroke_width="4"></line>
+   <line x1="1400" y1="1767" x2="1400" y2="1753" stroke="red" stroke_width="3"></line>
+   <circle cx="1400" cy="1770" stroke="red" fill="red" r="7"></circle>
+   <text x="1398" y="1772" base-alignment="middle" font-size="8px">1</text>
+   <line x1="1400" y1="1787" x2="1400" y2="1773" stroke="red" stroke_width="3"></line>
+   <circle cx="1400" cy="1790" stroke="red" fill="red" r="7"></circle>
+   <text x="1398" y="1792" base-alignment="middle" font-size="8px">4</text>
+   <line x1="1400" y1="1807" x2="1400" y2="1793" stroke="red" stroke_width="3"></line>
+   <circle cx="1400" cy="1810" stroke="red" fill="red" r="7"></circle>
+   <text x="1398" y="1812" base-alignment="middle" font-size="8px">11</text>
+   <line x1="1400" y1="1827" x2="1400" y2="1813" stroke="red" stroke_width="3"></line>
+   <circle cx="1400" cy="1830" stroke="red" fill="red" r="7"></circle>
+   <text x="1398" y="1832" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(1470,1740) rotate(-45)">Pont Marie Cité des Arts</text>
+   <circle cx="1470" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1405" y1="1750" x2="1465" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1540,1740) rotate(-45)">Sully-Morland</text>
+   <circle cx="1540" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1475" y1="1750" x2="1535" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1610,1740) rotate(-45)">Jussieu</text>
+   <circle cx="1610" cy="1750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1545" y1="1750" x2="1605" y2="1750" stroke="green" stroke_width="4"></line>
+   <line x1="1610" y1="1767" x2="1610" y2="1753" stroke="red" stroke_width="3"></line>
+   <circle cx="1610" cy="1770" stroke="red" fill="red" r="7"></circle>
+   <text x="1608" y="1772" base-alignment="middle" font-size="8px">10</text>
+   <text text-anchor="start" font-size="10" transform="translate(1680,1740) rotate(-45)">Place Monge Jardin des Plantes</text>
+   <circle cx="1680" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1615" y1="1750" x2="1675" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1750,1740) rotate(-45)">Censier-Daubenton</text>
+   <circle cx="1750" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1685" y1="1750" x2="1745" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1820,1740) rotate(-45)">Les Gobelins</text>
+   <circle cx="1820" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1755" y1="1750" x2="1815" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1890,1740) rotate(-45)">Place d'Italie</text>
+   <circle cx="1890" cy="1750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1825" y1="1750" x2="1885" y2="1750" stroke="green" stroke_width="4"></line>
+   <line x1="1890" y1="1767" x2="1890" y2="1753" stroke="red" stroke_width="3"></line>
+   <circle cx="1890" cy="1770" stroke="red" fill="red" r="7"></circle>
+   <text x="1888" y="1772" base-alignment="middle" font-size="8px">5</text>
+   <line x1="1890" y1="1787" x2="1890" y2="1773" stroke="red" stroke_width="3"></line>
+   <circle cx="1890" cy="1790" stroke="red" fill="red" r="7"></circle>
+   <text x="1888" y="1792" base-alignment="middle" font-size="8px">6</text>
+   <text text-anchor="start" font-size="10" transform="translate(1960,1740) rotate(-45)">Tolbiac</text>
+   <circle cx="1960" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1895" y1="1750" x2="1955" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2030,1740) rotate(-45)">Maison Blanche</text>
+   <circle cx="2030" cy="1750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1965" y1="1750" x2="2025" y2="1750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2100,1670) rotate(-45)">Le Kremlin-Bicêtre</text>
+   <circle cx="2100" cy="1680" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2035" y1="1750" x2="2095" y2="1680" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2170,1670) rotate(-45)">Porte de Choisy</text>
+   <circle cx="2170" cy="1680" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2105" y1="1680" x2="2165" y2="1680" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2240,1670) rotate(-45)">Porte d'Ivry</text>
+   <circle cx="2240" cy="1680" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2175" y1="1680" x2="2235" y2="1680" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2310,1670) rotate(-45)">Pierre et Marie Curie</text>
+   <circle cx="2310" cy="1680" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2245" y1="1680" x2="2305" y2="1680" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2380,1670) rotate(-45)">Mairie d'Ivry</text>
+   <circle cx="2380" cy="1680" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2315" y1="1680" x2="2375" y2="1680" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2100,1810) rotate(-45)">Porte d'Italie</text>
+   <circle cx="2100" cy="1820" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2035" y1="1750" x2="2095" y2="1820" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2170,1810) rotate(-45)">Villejuif-Léo Lagrange</text>
+   <circle cx="2170" cy="1820" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2105" y1="1820" x2="2165" y2="1820" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2240,1810) rotate(-45)">Villejuif-Paul Vaillant Couturier Hôpital Paul Brousse</text>
+   <circle cx="2240" cy="1820" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2175" y1="1820" x2="2235" y2="1820" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2310,1810) rotate(-45)">Villejuif-Louis Aragon</text>
+   <circle cx="2310" cy="1820" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2245" y1="1820" x2="2305" y2="1820" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(70,1880) rotate(0)">Ligne: 8 - BALARD -- POINTE DU LAC</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,1990) rotate(-45)">Balard</text>
+   <circle cx="70" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,1990) rotate(-45)">Lourmel</text>
+   <circle cx="140" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="2000" x2="135" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,1990) rotate(-45)">Boucicaut</text>
+   <circle cx="210" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="2000" x2="205" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,1990) rotate(-45)">Félix Faure</text>
+   <circle cx="280" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="2000" x2="275" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,1990) rotate(-45)">Commerce</text>
+   <circle cx="350" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="2000" x2="345" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,1990) rotate(-45)">La Motte-Picquet-Grenelle</text>
+   <circle cx="420" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="355" y1="2000" x2="415" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="420" y1="2017" x2="420" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="420" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="418" y="2022" base-alignment="middle" font-size="8px">6</text>
+   <line x1="420" y1="2037" x2="420" y2="2023" stroke="red" stroke_width="3"></line>
+   <circle cx="420" cy="2040" stroke="red" fill="red" r="7"></circle>
+   <text x="418" y="2042" base-alignment="middle" font-size="8px">10</text>
+   <text text-anchor="start" font-size="10" transform="translate(490,1990) rotate(-45)">Ecole Militaire</text>
+   <circle cx="490" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="425" y1="2000" x2="485" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(560,1990) rotate(-45)">La Tour-Maubourg</text>
+   <circle cx="560" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="495" y1="2000" x2="555" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(630,1990) rotate(-45)">Invalides</text>
+   <circle cx="630" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="565" y1="2000" x2="625" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="630" y1="2017" x2="630" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="2022" base-alignment="middle" font-size="8px">13</text>
+   <text text-anchor="start" font-size="10" transform="translate(700,1990) rotate(-45)">Concorde</text>
+   <circle cx="700" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="635" y1="2000" x2="695" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="700" y1="2017" x2="700" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="2022" base-alignment="middle" font-size="8px">1</text>
+   <line x1="700" y1="2037" x2="700" y2="2023" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="2040" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="2042" base-alignment="middle" font-size="8px">12</text>
+   <text text-anchor="start" font-size="10" transform="translate(770,1990) rotate(-45)">Madeleine</text>
+   <circle cx="770" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="705" y1="2000" x2="765" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="770" y1="2017" x2="770" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="2022" base-alignment="middle" font-size="8px">12</text>
+   <line x1="770" y1="2037" x2="770" y2="2023" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="2040" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="2042" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(840,1990) rotate(-45)">Opéra</text>
+   <circle cx="840" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="775" y1="2000" x2="835" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="840" y1="2017" x2="840" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="840" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="838" y="2022" base-alignment="middle" font-size="8px">3</text>
+   <line x1="840" y1="2037" x2="840" y2="2023" stroke="red" stroke_width="3"></line>
+   <circle cx="840" cy="2040" stroke="red" fill="red" r="7"></circle>
+   <text x="838" y="2042" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(910,1990) rotate(-45)">Richelieu-Drouot</text>
+   <circle cx="910" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="845" y1="2000" x2="905" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="910" y1="2017" x2="910" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="2022" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(980,1990) rotate(-45)">Grands Boulevards</text>
+   <circle cx="980" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="915" y1="2000" x2="975" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="980" y1="2017" x2="980" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="980" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="978" y="2022" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(1050,1990) rotate(-45)">Bonne Nouvelle</text>
+   <circle cx="1050" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="985" y1="2000" x2="1045" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="1050" y1="2017" x2="1050" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="2022" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(1120,1990) rotate(-45)">Strasbourg-Saint-Denis</text>
+   <circle cx="1120" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1055" y1="2000" x2="1115" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="1120" y1="2017" x2="1120" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="2022" base-alignment="middle" font-size="8px">4</text>
+   <line x1="1120" y1="2037" x2="1120" y2="2023" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="2040" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="2042" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(1190,1990) rotate(-45)">République</text>
+   <circle cx="1190" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1125" y1="2000" x2="1185" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="1190" y1="2017" x2="1190" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="2022" base-alignment="middle" font-size="8px">3</text>
+   <line x1="1190" y1="2037" x2="1190" y2="2023" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="2040" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="2042" base-alignment="middle" font-size="8px">5</text>
+   <line x1="1190" y1="2057" x2="1190" y2="2043" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="2060" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="2062" base-alignment="middle" font-size="8px">9</text>
+   <line x1="1190" y1="2077" x2="1190" y2="2063" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="2080" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="2082" base-alignment="middle" font-size="8px">11</text>
+   <text text-anchor="start" font-size="10" transform="translate(1260,1990) rotate(-45)">Filles du Calvaire</text>
+   <circle cx="1260" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1195" y1="2000" x2="1255" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1330,1990) rotate(-45)">Saint-Sébastien-Froissart</text>
+   <circle cx="1330" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1265" y1="2000" x2="1325" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1400,1990) rotate(-45)">Chemin Vert</text>
+   <circle cx="1400" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1335" y1="2000" x2="1395" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1470,1990) rotate(-45)">Bastille</text>
+   <circle cx="1470" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1405" y1="2000" x2="1465" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="1470" y1="2017" x2="1470" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="1470" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="1468" y="2022" base-alignment="middle" font-size="8px">1</text>
+   <line x1="1470" y1="2037" x2="1470" y2="2023" stroke="red" stroke_width="3"></line>
+   <circle cx="1470" cy="2040" stroke="red" fill="red" r="7"></circle>
+   <text x="1468" y="2042" base-alignment="middle" font-size="8px">5</text>
+   <text text-anchor="start" font-size="10" transform="translate(1540,1990) rotate(-45)">Ledru-Rollin</text>
+   <circle cx="1540" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1475" y1="2000" x2="1535" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1610,1990) rotate(-45)">Faidherbe-Chaligny</text>
+   <circle cx="1610" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1545" y1="2000" x2="1605" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1680,1990) rotate(-45)">Reuilly-Diderot</text>
+   <circle cx="1680" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1615" y1="2000" x2="1675" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="1680" y1="2017" x2="1680" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="1680" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="1678" y="2022" base-alignment="middle" font-size="8px">1</text>
+   <text text-anchor="start" font-size="10" transform="translate(1750,1990) rotate(-45)">Montgallet</text>
+   <circle cx="1750" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1685" y1="2000" x2="1745" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1820,1990) rotate(-45)">Daumesnil Félix Eboué</text>
+   <circle cx="1820" cy="2000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1755" y1="2000" x2="1815" y2="2000" stroke="green" stroke_width="4"></line>
+   <line x1="1820" y1="2017" x2="1820" y2="2003" stroke="red" stroke_width="3"></line>
+   <circle cx="1820" cy="2020" stroke="red" fill="red" r="7"></circle>
+   <text x="1818" y="2022" base-alignment="middle" font-size="8px">6</text>
+   <text text-anchor="start" font-size="10" transform="translate(1890,1990) rotate(-45)">Michel Bizot</text>
+   <circle cx="1890" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1825" y1="2000" x2="1885" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1960,1990) rotate(-45)">Porte Dorée</text>
+   <circle cx="1960" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1895" y1="2000" x2="1955" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2030,1990) rotate(-45)">Porte de Charenton</text>
+   <circle cx="2030" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1965" y1="2000" x2="2025" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2100,1990) rotate(-45)">Liberté</text>
+   <circle cx="2100" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2035" y1="2000" x2="2095" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2170,1990) rotate(-45)">Charenton-Ecoles</text>
+   <circle cx="2170" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2105" y1="2000" x2="2165" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2240,1990) rotate(-45)">Ecole Vétérinaire de Maisons-Alfort</text>
+   <circle cx="2240" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2175" y1="2000" x2="2235" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2310,1990) rotate(-45)">Maisons-Alfort-Stade</text>
+   <circle cx="2310" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2245" y1="2000" x2="2305" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2380,1990) rotate(-45)">Maisons-Alfort-Les Juilliottes</text>
+   <circle cx="2380" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2315" y1="2000" x2="2375" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2450,1990) rotate(-45)">Créteil-L'Echat Hôpital Henri Mondor</text>
+   <circle cx="2450" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2385" y1="2000" x2="2445" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2520,1990) rotate(-45)">Créteil-Université</text>
+   <circle cx="2520" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2455" y1="2000" x2="2515" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2590,1990) rotate(-45)">Créteil-Préfecture Hôtel de Ville</text>
+   <circle cx="2590" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2525" y1="2000" x2="2585" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2660,1990) rotate(-45)">Pointe du Lac</text>
+   <circle cx="2660" cy="2000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2595" y1="2000" x2="2655" y2="2000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(70,2130) rotate(0)">Ligne: 9 - PONT DE SEVRES -- MAIRIE DE MONTREUIL</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,2240) rotate(-45)">Pont de Sèvres</text>
+   <circle cx="70" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,2240) rotate(-45)">Billancourt</text>
+   <circle cx="140" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="2250" x2="135" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,2240) rotate(-45)">Marcel Sembat</text>
+   <circle cx="210" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="2250" x2="205" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,2240) rotate(-45)">Porte de Saint-Cloud</text>
+   <circle cx="280" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="2250" x2="275" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,2240) rotate(-45)">Exelmans</text>
+   <circle cx="350" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="2250" x2="345" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,2240) rotate(-45)">Michel-Ange-Molitor</text>
+   <circle cx="420" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="355" y1="2250" x2="415" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="420" y1="2267" x2="420" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="420" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="418" y="2272" base-alignment="middle" font-size="8px">10</text>
+   <text text-anchor="start" font-size="10" transform="translate(490,2240) rotate(-45)">Michel-Ange-Auteuil</text>
+   <circle cx="490" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="425" y1="2250" x2="485" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(560,2240) rotate(-45)">Jasmin</text>
+   <circle cx="560" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="495" y1="2250" x2="555" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(630,2240) rotate(-45)">Ranelagh</text>
+   <circle cx="630" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="565" y1="2250" x2="625" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(700,2240) rotate(-45)">La Muette</text>
+   <circle cx="700" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="635" y1="2250" x2="695" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(770,2240) rotate(-45)">Rue de la Pompe Avenue Georges Mandel</text>
+   <circle cx="770" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="705" y1="2250" x2="765" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(840,2240) rotate(-45)">Trocadéro</text>
+   <circle cx="840" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="775" y1="2250" x2="835" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="840" y1="2267" x2="840" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="840" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="838" y="2272" base-alignment="middle" font-size="8px">6</text>
+   <text text-anchor="start" font-size="10" transform="translate(910,2240) rotate(-45)">Iéna</text>
+   <circle cx="910" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="845" y1="2250" x2="905" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(980,2240) rotate(-45)">Alma-Marceau</text>
+   <circle cx="980" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="915" y1="2250" x2="975" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1050,2240) rotate(-45)">Franklin-Roosevelt</text>
+   <circle cx="1050" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="985" y1="2250" x2="1045" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="1050" y1="2267" x2="1050" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="2272" base-alignment="middle" font-size="8px">1</text>
+   <text text-anchor="start" font-size="10" transform="translate(1120,2240) rotate(-45)">Saint-Philippe du Roule</text>
+   <circle cx="1120" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1055" y1="2250" x2="1115" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1190,2240) rotate(-45)">Miromesnil</text>
+   <circle cx="1190" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1125" y1="2250" x2="1185" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="1190" y1="2267" x2="1190" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="2272" base-alignment="middle" font-size="8px">13</text>
+   <text text-anchor="start" font-size="10" transform="translate(1260,2240) rotate(-45)">Saint-Augustin</text>
+   <circle cx="1260" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1195" y1="2250" x2="1255" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1330,2240) rotate(-45)">Havre-Caumartin</text>
+   <circle cx="1330" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1265" y1="2250" x2="1325" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="1330" y1="2267" x2="1330" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="1330" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="1328" y="2272" base-alignment="middle" font-size="8px">3</text>
+   <text text-anchor="start" font-size="10" transform="translate(1400,2240) rotate(-45)">Chaussée d'Antin La Fayette</text>
+   <circle cx="1400" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1335" y1="2250" x2="1395" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="1400" y1="2267" x2="1400" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="1400" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="1398" y="2272" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(1470,2240) rotate(-45)">Richelieu-Drouot</text>
+   <circle cx="1470" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1405" y1="2250" x2="1465" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="1470" y1="2267" x2="1470" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="1470" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="1468" y="2272" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(1540,2240) rotate(-45)">Grands Boulevards</text>
+   <circle cx="1540" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1475" y1="2250" x2="1535" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="1540" y1="2267" x2="1540" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="1540" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="1538" y="2272" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(1610,2240) rotate(-45)">Bonne Nouvelle</text>
+   <circle cx="1610" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1545" y1="2250" x2="1605" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="1610" y1="2267" x2="1610" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="1610" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="1608" y="2272" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(1680,2240) rotate(-45)">Strasbourg-Saint-Denis</text>
+   <circle cx="1680" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1615" y1="2250" x2="1675" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="1680" y1="2267" x2="1680" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="1680" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="1678" y="2272" base-alignment="middle" font-size="8px">4</text>
+   <line x1="1680" y1="2287" x2="1680" y2="2273" stroke="red" stroke_width="3"></line>
+   <circle cx="1680" cy="2290" stroke="red" fill="red" r="7"></circle>
+   <text x="1678" y="2292" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(1750,2240) rotate(-45)">République</text>
+   <circle cx="1750" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1685" y1="2250" x2="1745" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="1750" y1="2267" x2="1750" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="1750" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="1748" y="2272" base-alignment="middle" font-size="8px">3</text>
+   <line x1="1750" y1="2287" x2="1750" y2="2273" stroke="red" stroke_width="3"></line>
+   <circle cx="1750" cy="2290" stroke="red" fill="red" r="7"></circle>
+   <text x="1748" y="2292" base-alignment="middle" font-size="8px">5</text>
+   <line x1="1750" y1="2307" x2="1750" y2="2293" stroke="red" stroke_width="3"></line>
+   <circle cx="1750" cy="2310" stroke="red" fill="red" r="7"></circle>
+   <text x="1748" y="2312" base-alignment="middle" font-size="8px">8</text>
+   <line x1="1750" y1="2327" x2="1750" y2="2313" stroke="red" stroke_width="3"></line>
+   <circle cx="1750" cy="2330" stroke="red" fill="red" r="7"></circle>
+   <text x="1748" y="2332" base-alignment="middle" font-size="8px">11</text>
+   <text text-anchor="start" font-size="10" transform="translate(1820,2240) rotate(-45)">Oberkampf</text>
+   <circle cx="1820" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1755" y1="2250" x2="1815" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="1820" y1="2267" x2="1820" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="1820" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="1818" y="2272" base-alignment="middle" font-size="8px">5</text>
+   <text text-anchor="start" font-size="10" transform="translate(1890,2240) rotate(-45)">Saint-Ambroise</text>
+   <circle cx="1890" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1825" y1="2250" x2="1885" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1960,2240) rotate(-45)">Voltaire Léon Blum</text>
+   <circle cx="1960" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1895" y1="2250" x2="1955" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2030,2240) rotate(-45)">Charonne</text>
+   <circle cx="2030" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1965" y1="2250" x2="2025" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2100,2240) rotate(-45)">Rue des Boulets</text>
+   <circle cx="2100" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2035" y1="2250" x2="2095" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2170,2240) rotate(-45)">Nation</text>
+   <circle cx="2170" cy="2250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="2105" y1="2250" x2="2165" y2="2250" stroke="green" stroke_width="4"></line>
+   <line x1="2170" y1="2267" x2="2170" y2="2253" stroke="red" stroke_width="3"></line>
+   <circle cx="2170" cy="2270" stroke="red" fill="red" r="7"></circle>
+   <text x="2168" y="2272" base-alignment="middle" font-size="8px">1</text>
+   <line x1="2170" y1="2287" x2="2170" y2="2273" stroke="red" stroke_width="3"></line>
+   <circle cx="2170" cy="2290" stroke="red" fill="red" r="7"></circle>
+   <text x="2168" y="2292" base-alignment="middle" font-size="8px">2</text>
+   <line x1="2170" y1="2307" x2="2170" y2="2293" stroke="red" stroke_width="3"></line>
+   <circle cx="2170" cy="2310" stroke="red" fill="red" r="7"></circle>
+   <text x="2168" y="2312" base-alignment="middle" font-size="8px">6</text>
+   <text text-anchor="start" font-size="10" transform="translate(2240,2240) rotate(-45)">Buzenval</text>
+   <circle cx="2240" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2175" y1="2250" x2="2235" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2310,2240) rotate(-45)">Maraîchers</text>
+   <circle cx="2310" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2245" y1="2250" x2="2305" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2380,2240) rotate(-45)">Porte de Montreuil</text>
+   <circle cx="2380" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2315" y1="2250" x2="2375" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2450,2240) rotate(-45)">Robespierre</text>
+   <circle cx="2450" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2385" y1="2250" x2="2445" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2520,2240) rotate(-45)">Croix-de-Chavaux Jacques Duclos</text>
+   <circle cx="2520" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2455" y1="2250" x2="2515" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2590,2240) rotate(-45)">Mairie de Montreuil</text>
+   <circle cx="2590" cy="2250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="2525" y1="2250" x2="2585" y2="2250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(70,2380) rotate(0)">Ligne: 10 - BOULOGNE - PONT DE SAINT CLOUD -- GARE D'AUSTERLITZ</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,2490) rotate(-45)">Boulogne Pont de Saint-Cloud</text>
+   <circle cx="70" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,2490) rotate(-45)">Boulogne-Jean-Jaurès</text>
+   <circle cx="140" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="2500" x2="135" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,2490) rotate(-45)">Michel-Ange-Molitor</text>
+   <circle cx="210" cy="2500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="145" y1="2500" x2="205" y2="2500" stroke="green" stroke_width="4"></line>
+   <line x1="210" y1="2517" x2="210" y2="2503" stroke="red" stroke_width="3"></line>
+   <circle cx="210" cy="2520" stroke="red" fill="red" r="7"></circle>
+   <text x="208" y="2522" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(280,2490) rotate(-45)">Chardon-Lagache</text>
+   <circle cx="280" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="2500" x2="275" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,2490) rotate(-45)">Mirabeau</text>
+   <circle cx="350" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="2500" x2="345" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,2490) rotate(-45)">Javel-André-Citroen</text>
+   <circle cx="420" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="355" y1="2500" x2="415" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(490,2490) rotate(-45)">Charles Michels</text>
+   <circle cx="490" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="425" y1="2500" x2="485" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(560,2490) rotate(-45)">Avenue Emile-Zola</text>
+   <circle cx="560" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="495" y1="2500" x2="555" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(630,2490) rotate(-45)">La Motte-Picquet-Grenelle</text>
+   <circle cx="630" cy="2500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="565" y1="2500" x2="625" y2="2500" stroke="green" stroke_width="4"></line>
+   <line x1="630" y1="2517" x2="630" y2="2503" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="2520" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="2522" base-alignment="middle" font-size="8px">6</text>
+   <line x1="630" y1="2537" x2="630" y2="2523" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="2540" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="2542" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(700,2490) rotate(-45)">Ségur</text>
+   <circle cx="700" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="635" y1="2500" x2="695" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(770,2490) rotate(-45)">Duroc</text>
+   <circle cx="770" cy="2500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="705" y1="2500" x2="765" y2="2500" stroke="green" stroke_width="4"></line>
+   <line x1="770" y1="2517" x2="770" y2="2503" stroke="red" stroke_width="3"></line>
+   <circle cx="770" cy="2520" stroke="red" fill="red" r="7"></circle>
+   <text x="768" y="2522" base-alignment="middle" font-size="8px">13</text>
+   <text text-anchor="start" font-size="10" transform="translate(840,2490) rotate(-45)">Vaneau</text>
+   <circle cx="840" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="775" y1="2500" x2="835" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(910,2490) rotate(-45)">Sèvres-Babylone</text>
+   <circle cx="910" cy="2500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="845" y1="2500" x2="905" y2="2500" stroke="green" stroke_width="4"></line>
+   <line x1="910" y1="2517" x2="910" y2="2503" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="2520" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="2522" base-alignment="middle" font-size="8px">12</text>
+   <text text-anchor="start" font-size="10" transform="translate(980,2490) rotate(-45)">Mabillon</text>
+   <circle cx="980" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="915" y1="2500" x2="975" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1050,2490) rotate(-45)">Odéon</text>
+   <circle cx="1050" cy="2500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="985" y1="2500" x2="1045" y2="2500" stroke="green" stroke_width="4"></line>
+   <line x1="1050" y1="2517" x2="1050" y2="2503" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="2520" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="2522" base-alignment="middle" font-size="8px">4</text>
+   <text text-anchor="start" font-size="10" transform="translate(1120,2490) rotate(-45)">Cluny-La Sorbonne</text>
+   <circle cx="1120" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1055" y1="2500" x2="1115" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1190,2490) rotate(-45)">Maubert-Mutualité</text>
+   <circle cx="1190" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1125" y1="2500" x2="1185" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1260,2490) rotate(-45)">Cardinal-Lemoine</text>
+   <circle cx="1260" cy="2500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1195" y1="2500" x2="1255" y2="2500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1330,2490) rotate(-45)">Jussieu</text>
+   <circle cx="1330" cy="2500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1265" y1="2500" x2="1325" y2="2500" stroke="green" stroke_width="4"></line>
+   <line x1="1330" y1="2517" x2="1330" y2="2503" stroke="red" stroke_width="3"></line>
+   <circle cx="1330" cy="2520" stroke="red" fill="red" r="7"></circle>
+   <text x="1328" y="2522" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(1400,2490) rotate(-45)">Gare d'Austerlitz</text>
+   <circle cx="1400" cy="2500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1335" y1="2500" x2="1395" y2="2500" stroke="green" stroke_width="4"></line>
+   <line x1="1400" y1="2517" x2="1400" y2="2503" stroke="red" stroke_width="3"></line>
+   <circle cx="1400" cy="2520" stroke="red" fill="red" r="7"></circle>
+   <text x="1398" y="2522" base-alignment="middle" font-size="8px">5</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,2630) rotate(0)">Ligne: 11 - MAIRIE DES LILAS -- CHATELET</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,2740) rotate(-45)">Mairie des Lilas</text>
+   <circle cx="70" cy="2750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,2740) rotate(-45)">Porte des Lilas</text>
+   <circle cx="140" cy="2750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="75" y1="2750" x2="135" y2="2750" stroke="green" stroke_width="4"></line>
+   <line x1="140" y1="2767" x2="140" y2="2753" stroke="red" stroke_width="3"></line>
+   <circle cx="140" cy="2770" stroke="red" fill="red" r="7"></circle>
+   <text x="138" y="2772" base-alignment="middle" font-size="8px">3B</text>
+   <text text-anchor="start" font-size="10" transform="translate(210,2740) rotate(-45)">Télégraphe</text>
+   <circle cx="210" cy="2750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="2750" x2="205" y2="2750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,2740) rotate(-45)">Place des Fêtes</text>
+   <circle cx="280" cy="2750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="2750" x2="275" y2="2750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,2740) rotate(-45)">Jourdain</text>
+   <circle cx="350" cy="2750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="2750" x2="345" y2="2750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,2740) rotate(-45)">Pyrénées</text>
+   <circle cx="420" cy="2750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="355" y1="2750" x2="415" y2="2750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(490,2740) rotate(-45)">Belleville</text>
+   <circle cx="490" cy="2750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="425" y1="2750" x2="485" y2="2750" stroke="green" stroke_width="4"></line>
+   <line x1="490" y1="2767" x2="490" y2="2753" stroke="red" stroke_width="3"></line>
+   <circle cx="490" cy="2770" stroke="red" fill="red" r="7"></circle>
+   <text x="488" y="2772" base-alignment="middle" font-size="8px">2</text>
+   <text text-anchor="start" font-size="10" transform="translate(560,2740) rotate(-45)">Goncourt Hôpital Saint-Louis</text>
+   <circle cx="560" cy="2750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="495" y1="2750" x2="555" y2="2750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(630,2740) rotate(-45)">République</text>
+   <circle cx="630" cy="2750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="565" y1="2750" x2="625" y2="2750" stroke="green" stroke_width="4"></line>
+   <line x1="630" y1="2767" x2="630" y2="2753" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="2770" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="2772" base-alignment="middle" font-size="8px">3</text>
+   <line x1="630" y1="2787" x2="630" y2="2773" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="2790" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="2792" base-alignment="middle" font-size="8px">5</text>
+   <line x1="630" y1="2807" x2="630" y2="2793" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="2810" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="2812" base-alignment="middle" font-size="8px">8</text>
+   <line x1="630" y1="2827" x2="630" y2="2813" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="2830" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="2832" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(700,2740) rotate(-45)">Arts-et-Métiers</text>
+   <circle cx="700" cy="2750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="635" y1="2750" x2="695" y2="2750" stroke="green" stroke_width="4"></line>
+   <line x1="700" y1="2767" x2="700" y2="2753" stroke="red" stroke_width="3"></line>
+   <circle cx="700" cy="2770" stroke="red" fill="red" r="7"></circle>
+   <text x="698" y="2772" base-alignment="middle" font-size="8px">3</text>
+   <text text-anchor="start" font-size="10" transform="translate(770,2740) rotate(-45)">Rambuteau</text>
+   <circle cx="770" cy="2750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="705" y1="2750" x2="765" y2="2750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(840,2740) rotate(-45)">Hôtel de Ville</text>
+   <circle cx="840" cy="2750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="775" y1="2750" x2="835" y2="2750" stroke="green" stroke_width="4"></line>
+   <line x1="840" y1="2767" x2="840" y2="2753" stroke="red" stroke_width="3"></line>
+   <circle cx="840" cy="2770" stroke="red" fill="red" r="7"></circle>
+   <text x="838" y="2772" base-alignment="middle" font-size="8px">1</text>
+   <text text-anchor="start" font-size="10" transform="translate(910,2740) rotate(-45)">Châtelet</text>
+   <circle cx="910" cy="2750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="845" y1="2750" x2="905" y2="2750" stroke="green" stroke_width="4"></line>
+   <line x1="910" y1="2767" x2="910" y2="2753" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="2770" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="2772" base-alignment="middle" font-size="8px">1</text>
+   <line x1="910" y1="2787" x2="910" y2="2773" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="2790" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="2792" base-alignment="middle" font-size="8px">4</text>
+   <line x1="910" y1="2807" x2="910" y2="2793" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="2810" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="2812" base-alignment="middle" font-size="8px">7</text>
+   <line x1="910" y1="2827" x2="910" y2="2813" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="2830" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="2832" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,2880) rotate(0)">Ligne: 12 - MAIRIE D'ISSY -- FRONT POPULAIRE</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,2990) rotate(-45)">Mairie d'Issy</text>
+   <circle cx="70" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,2990) rotate(-45)">Corentin-Celton</text>
+   <circle cx="140" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="3000" x2="135" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,2990) rotate(-45)">Porte de Versailles</text>
+   <circle cx="210" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="3000" x2="205" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,2990) rotate(-45)">Convention</text>
+   <circle cx="280" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="3000" x2="275" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,2990) rotate(-45)">Vaugirard Adolphe Chérioux</text>
+   <circle cx="350" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="3000" x2="345" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,2990) rotate(-45)">Volontaires</text>
+   <circle cx="420" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="355" y1="3000" x2="415" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(490,2990) rotate(-45)">Pasteur</text>
+   <circle cx="490" cy="3000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="425" y1="3000" x2="485" y2="3000" stroke="green" stroke_width="4"></line>
+   <line x1="490" y1="3017" x2="490" y2="3003" stroke="red" stroke_width="3"></line>
+   <circle cx="490" cy="3020" stroke="red" fill="red" r="7"></circle>
+   <text x="488" y="3022" base-alignment="middle" font-size="8px">6</text>
+   <text text-anchor="start" font-size="10" transform="translate(560,2990) rotate(-45)">Falguière</text>
+   <circle cx="560" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="495" y1="3000" x2="555" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(630,2990) rotate(-45)">Montparnasse-Bienvenue</text>
+   <circle cx="630" cy="3000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="565" y1="3000" x2="625" y2="3000" stroke="green" stroke_width="4"></line>
+   <line x1="630" y1="3017" x2="630" y2="3003" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="3020" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="3022" base-alignment="middle" font-size="8px">4</text>
+   <line x1="630" y1="3037" x2="630" y2="3023" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="3040" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="3042" base-alignment="middle" font-size="8px">6</text>
+   <line x1="630" y1="3057" x2="630" y2="3043" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="3060" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="3062" base-alignment="middle" font-size="8px">13</text>
+   <text text-anchor="start" font-size="10" transform="translate(700,2990) rotate(-45)">Notre-Dame des Champs</text>
+   <circle cx="700" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="635" y1="3000" x2="695" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(770,2990) rotate(-45)">Rennes</text>
+   <circle cx="770" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="705" y1="3000" x2="765" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(840,2990) rotate(-45)">Sèvres-Babylone</text>
+   <circle cx="840" cy="3000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="775" y1="3000" x2="835" y2="3000" stroke="green" stroke_width="4"></line>
+   <line x1="840" y1="3017" x2="840" y2="3003" stroke="red" stroke_width="3"></line>
+   <circle cx="840" cy="3020" stroke="red" fill="red" r="7"></circle>
+   <text x="838" y="3022" base-alignment="middle" font-size="8px">10</text>
+   <text text-anchor="start" font-size="10" transform="translate(910,2990) rotate(-45)">Rue du Bac</text>
+   <circle cx="910" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="845" y1="3000" x2="905" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(980,2990) rotate(-45)">Solférino</text>
+   <circle cx="980" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="915" y1="3000" x2="975" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1050,2990) rotate(-45)">Assemblée Nationale</text>
+   <circle cx="1050" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="985" y1="3000" x2="1045" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1120,2990) rotate(-45)">Concorde</text>
+   <circle cx="1120" cy="3000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1055" y1="3000" x2="1115" y2="3000" stroke="green" stroke_width="4"></line>
+   <line x1="1120" y1="3017" x2="1120" y2="3003" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="3020" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="3022" base-alignment="middle" font-size="8px">1</text>
+   <line x1="1120" y1="3037" x2="1120" y2="3023" stroke="red" stroke_width="3"></line>
+   <circle cx="1120" cy="3040" stroke="red" fill="red" r="7"></circle>
+   <text x="1118" y="3042" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(1190,2990) rotate(-45)">Madeleine</text>
+   <circle cx="1190" cy="3000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1125" y1="3000" x2="1185" y2="3000" stroke="green" stroke_width="4"></line>
+   <line x1="1190" y1="3017" x2="1190" y2="3003" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="3020" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="3022" base-alignment="middle" font-size="8px">8</text>
+   <line x1="1190" y1="3037" x2="1190" y2="3023" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="3040" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="3042" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(1260,2990) rotate(-45)">Saint-Lazare</text>
+   <circle cx="1260" cy="3000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1195" y1="3000" x2="1255" y2="3000" stroke="green" stroke_width="4"></line>
+   <line x1="1260" y1="3017" x2="1260" y2="3003" stroke="red" stroke_width="3"></line>
+   <circle cx="1260" cy="3020" stroke="red" fill="red" r="7"></circle>
+   <text x="1258" y="3022" base-alignment="middle" font-size="8px">3</text>
+   <line x1="1260" y1="3037" x2="1260" y2="3023" stroke="red" stroke_width="3"></line>
+   <circle cx="1260" cy="3040" stroke="red" fill="red" r="7"></circle>
+   <text x="1258" y="3042" base-alignment="middle" font-size="8px">13</text>
+   <line x1="1260" y1="3057" x2="1260" y2="3043" stroke="red" stroke_width="3"></line>
+   <circle cx="1260" cy="3060" stroke="red" fill="red" r="7"></circle>
+   <text x="1258" y="3062" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(1330,2990) rotate(-45)">Trinité-d'Estienne d'Orves</text>
+   <circle cx="1330" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1265" y1="3000" x2="1325" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1400,2990) rotate(-45)">Notre-Dame de Lorette</text>
+   <circle cx="1400" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1335" y1="3000" x2="1395" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1470,2990) rotate(-45)">Saint-Georges</text>
+   <circle cx="1470" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1405" y1="3000" x2="1465" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1540,2990) rotate(-45)">Pigalle</text>
+   <circle cx="1540" cy="3000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1475" y1="3000" x2="1535" y2="3000" stroke="green" stroke_width="4"></line>
+   <line x1="1540" y1="3017" x2="1540" y2="3003" stroke="red" stroke_width="3"></line>
+   <circle cx="1540" cy="3020" stroke="red" fill="red" r="7"></circle>
+   <text x="1538" y="3022" base-alignment="middle" font-size="8px">2</text>
+   <text text-anchor="start" font-size="10" transform="translate(1610,2990) rotate(-45)">Abbesses</text>
+   <circle cx="1610" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1545" y1="3000" x2="1605" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1680,2990) rotate(-45)">Lamarck-Caulaincourt</text>
+   <circle cx="1680" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1615" y1="3000" x2="1675" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1750,2990) rotate(-45)">Jules Joffrin</text>
+   <circle cx="1750" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1685" y1="3000" x2="1745" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1820,2990) rotate(-45)">Marcadet-Poissonniers</text>
+   <circle cx="1820" cy="3000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1755" y1="3000" x2="1815" y2="3000" stroke="green" stroke_width="4"></line>
+   <line x1="1820" y1="3017" x2="1820" y2="3003" stroke="red" stroke_width="3"></line>
+   <circle cx="1820" cy="3020" stroke="red" fill="red" r="7"></circle>
+   <text x="1818" y="3022" base-alignment="middle" font-size="8px">4</text>
+   <text text-anchor="start" font-size="10" transform="translate(1890,2990) rotate(-45)">Marx-Dormoy</text>
+   <circle cx="1890" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1825" y1="3000" x2="1885" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1960,2990) rotate(-45)">Porte de la Chapelle</text>
+   <circle cx="1960" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1895" y1="3000" x2="1955" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(2030,2990) rotate(-45)">Front Populaire</text>
+   <circle cx="2030" cy="3000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1965" y1="3000" x2="2025" y2="3000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(70,3130) rotate(0)">Ligne: 13 - CHATILLON - MONTROUGE -- ST-DENIS-UNIVERSITE/LES COURTILLES</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,3240) rotate(-45)">Châtillon Montrouge</text>
+   <circle cx="70" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,3240) rotate(-45)">Malakoff-Rue Etienne Dolet</text>
+   <circle cx="140" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="3250" x2="135" y2="3250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,3240) rotate(-45)">Malakoff-Plateau de Vanves</text>
+   <circle cx="210" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="3250" x2="205" y2="3250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,3240) rotate(-45)">Porte de Vanves</text>
+   <circle cx="280" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="3250" x2="275" y2="3250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,3240) rotate(-45)">Plaisance</text>
+   <circle cx="350" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="3250" x2="345" y2="3250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,3240) rotate(-45)">Pernety</text>
+   <circle cx="420" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="355" y1="3250" x2="415" y2="3250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(490,3240) rotate(-45)">Gaîté</text>
+   <circle cx="490" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="425" y1="3250" x2="485" y2="3250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(560,3240) rotate(-45)">Montparnasse-Bienvenue</text>
+   <circle cx="560" cy="3250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="495" y1="3250" x2="555" y2="3250" stroke="green" stroke_width="4"></line>
+   <line x1="560" y1="3267" x2="560" y2="3253" stroke="red" stroke_width="3"></line>
+   <circle cx="560" cy="3270" stroke="red" fill="red" r="7"></circle>
+   <text x="558" y="3272" base-alignment="middle" font-size="8px">4</text>
+   <line x1="560" y1="3287" x2="560" y2="3273" stroke="red" stroke_width="3"></line>
+   <circle cx="560" cy="3290" stroke="red" fill="red" r="7"></circle>
+   <text x="558" y="3292" base-alignment="middle" font-size="8px">6</text>
+   <line x1="560" y1="3307" x2="560" y2="3293" stroke="red" stroke_width="3"></line>
+   <circle cx="560" cy="3310" stroke="red" fill="red" r="7"></circle>
+   <text x="558" y="3312" base-alignment="middle" font-size="8px">12</text>
+   <text text-anchor="start" font-size="10" transform="translate(630,3240) rotate(-45)">Duroc</text>
+   <circle cx="630" cy="3250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="565" y1="3250" x2="625" y2="3250" stroke="green" stroke_width="4"></line>
+   <line x1="630" y1="3267" x2="630" y2="3253" stroke="red" stroke_width="3"></line>
+   <circle cx="630" cy="3270" stroke="red" fill="red" r="7"></circle>
+   <text x="628" y="3272" base-alignment="middle" font-size="8px">10</text>
+   <text text-anchor="start" font-size="10" transform="translate(700,3240) rotate(-45)">Saint-François-Xavier</text>
+   <circle cx="700" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="635" y1="3250" x2="695" y2="3250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(770,3240) rotate(-45)">Varenne</text>
+   <circle cx="770" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="705" y1="3250" x2="765" y2="3250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(840,3240) rotate(-45)">Invalides</text>
+   <circle cx="840" cy="3250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="775" y1="3250" x2="835" y2="3250" stroke="green" stroke_width="4"></line>
+   <line x1="840" y1="3267" x2="840" y2="3253" stroke="red" stroke_width="3"></line>
+   <circle cx="840" cy="3270" stroke="red" fill="red" r="7"></circle>
+   <text x="838" y="3272" base-alignment="middle" font-size="8px">8</text>
+   <text text-anchor="start" font-size="10" transform="translate(910,3240) rotate(-45)">Champs-Elysées-Clémenceau</text>
+   <circle cx="910" cy="3250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="845" y1="3250" x2="905" y2="3250" stroke="green" stroke_width="4"></line>
+   <line x1="910" y1="3267" x2="910" y2="3253" stroke="red" stroke_width="3"></line>
+   <circle cx="910" cy="3270" stroke="red" fill="red" r="7"></circle>
+   <text x="908" y="3272" base-alignment="middle" font-size="8px">1</text>
+   <text text-anchor="start" font-size="10" transform="translate(980,3240) rotate(-45)">Miromesnil</text>
+   <circle cx="980" cy="3250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="915" y1="3250" x2="975" y2="3250" stroke="green" stroke_width="4"></line>
+   <line x1="980" y1="3267" x2="980" y2="3253" stroke="red" stroke_width="3"></line>
+   <circle cx="980" cy="3270" stroke="red" fill="red" r="7"></circle>
+   <text x="978" y="3272" base-alignment="middle" font-size="8px">9</text>
+   <text text-anchor="start" font-size="10" transform="translate(1050,3240) rotate(-45)">Saint-Lazare</text>
+   <circle cx="1050" cy="3250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="985" y1="3250" x2="1045" y2="3250" stroke="green" stroke_width="4"></line>
+   <line x1="1050" y1="3267" x2="1050" y2="3253" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="3270" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="3272" base-alignment="middle" font-size="8px">3</text>
+   <line x1="1050" y1="3287" x2="1050" y2="3273" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="3290" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="3292" base-alignment="middle" font-size="8px">12</text>
+   <line x1="1050" y1="3307" x2="1050" y2="3293" stroke="red" stroke_width="3"></line>
+   <circle cx="1050" cy="3310" stroke="red" fill="red" r="7"></circle>
+   <text x="1048" y="3312" base-alignment="middle" font-size="8px">14</text>
+   <text text-anchor="start" font-size="10" transform="translate(1120,3240) rotate(-45)">Liège</text>
+   <circle cx="1120" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1055" y1="3250" x2="1115" y2="3250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1190,3240) rotate(-45)">Place de Clichy</text>
+   <circle cx="1190" cy="3250" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="1125" y1="3250" x2="1185" y2="3250" stroke="green" stroke_width="4"></line>
+   <line x1="1190" y1="3267" x2="1190" y2="3253" stroke="red" stroke_width="3"></line>
+   <circle cx="1190" cy="3270" stroke="red" fill="red" r="7"></circle>
+   <text x="1188" y="3272" base-alignment="middle" font-size="8px">2</text>
+   <text text-anchor="start" font-size="10" transform="translate(1260,3240) rotate(-45)">La Fourche</text>
+   <circle cx="1260" cy="3250" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1195" y1="3250" x2="1255" y2="3250" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1330,3170) rotate(-45)">Brochant</text>
+   <circle cx="1330" cy="3180" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1265" y1="3250" x2="1325" y2="3180" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1400,3170) rotate(-45)">Porte de Clichy</text>
+   <circle cx="1400" cy="3180" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1335" y1="3180" x2="1395" y2="3180" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1470,3170) rotate(-45)">Garibaldi</text>
+   <circle cx="1470" cy="3180" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1405" y1="3180" x2="1465" y2="3180" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1540,3170) rotate(-45)">Gabriel-Péri</text>
+   <circle cx="1540" cy="3180" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1475" y1="3180" x2="1535" y2="3180" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1610,3170) rotate(-45)">Carrefour-Pleyel</text>
+   <circle cx="1610" cy="3180" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1545" y1="3180" x2="1605" y2="3180" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1680,3170) rotate(-45)">Asnières-Gennevilliers Les Courtilles</text>
+   <circle cx="1680" cy="3180" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1615" y1="3180" x2="1675" y2="3180" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1330,3310) rotate(-45)">Guy-Môquet</text>
+   <circle cx="1330" cy="3320" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1265" y1="3250" x2="1325" y2="3320" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1400,3310) rotate(-45)">Porte de Saint-Ouen</text>
+   <circle cx="1400" cy="3320" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1335" y1="3320" x2="1395" y2="3320" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1470,3310) rotate(-45)">Mairie de Clichy</text>
+   <circle cx="1470" cy="3320" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1405" y1="3320" x2="1465" y2="3320" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1540,3310) rotate(-45)">Mairie de Saint-Ouen</text>
+   <circle cx="1540" cy="3320" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1475" y1="3320" x2="1535" y2="3320" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1610,3310) rotate(-45)">Les Agnettes</text>
+   <circle cx="1610" cy="3320" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1545" y1="3320" x2="1605" y2="3320" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1680,3310) rotate(-45)">Saint-Denis - Porte de Paris</text>
+   <circle cx="1680" cy="3320" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1615" y1="3320" x2="1675" y2="3320" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1750,3310) rotate(-45)">Basilique de Saint-Denis</text>
+   <circle cx="1750" cy="3320" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1685" y1="3320" x2="1745" y2="3320" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(1820,3310) rotate(-45)">Saint-Denis-Université</text>
+   <circle cx="1820" cy="3320" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="1755" y1="3320" x2="1815" y2="3320" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(70,3380) rotate(0)">Ligne: 14 - SAINT-LAZARE -- OLYMPIADES</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,3490) rotate(-45)">Saint-Lazare</text>
+   <circle cx="70" cy="3500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="70" y1="3517" x2="70" y2="3503" stroke="red" stroke_width="3"></line>
+   <circle cx="70" cy="3520" stroke="red" fill="red" r="7"></circle>
+   <text x="68" y="3522" base-alignment="middle" font-size="8px">3</text>
+   <line x1="70" y1="3537" x2="70" y2="3523" stroke="red" stroke_width="3"></line>
+   <circle cx="70" cy="3540" stroke="red" fill="red" r="7"></circle>
+   <text x="68" y="3542" base-alignment="middle" font-size="8px">12</text>
+   <line x1="70" y1="3557" x2="70" y2="3543" stroke="red" stroke_width="3"></line>
+   <circle cx="70" cy="3560" stroke="red" fill="red" r="7"></circle>
+   <text x="68" y="3562" base-alignment="middle" font-size="8px">13</text>
+   <text text-anchor="start" font-size="10" transform="translate(140,3490) rotate(-45)">Madeleine</text>
+   <circle cx="140" cy="3500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="75" y1="3500" x2="135" y2="3500" stroke="green" stroke_width="4"></line>
+   <line x1="140" y1="3517" x2="140" y2="3503" stroke="red" stroke_width="3"></line>
+   <circle cx="140" cy="3520" stroke="red" fill="red" r="7"></circle>
+   <text x="138" y="3522" base-alignment="middle" font-size="8px">8</text>
+   <line x1="140" y1="3537" x2="140" y2="3523" stroke="red" stroke_width="3"></line>
+   <circle cx="140" cy="3540" stroke="red" fill="red" r="7"></circle>
+   <text x="138" y="3542" base-alignment="middle" font-size="8px">12</text>
+   <text text-anchor="start" font-size="10" transform="translate(210,3490) rotate(-45)">Pyramides</text>
+   <circle cx="210" cy="3500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="145" y1="3500" x2="205" y2="3500" stroke="green" stroke_width="4"></line>
+   <line x1="210" y1="3517" x2="210" y2="3503" stroke="red" stroke_width="3"></line>
+   <circle cx="210" cy="3520" stroke="red" fill="red" r="7"></circle>
+   <text x="208" y="3522" base-alignment="middle" font-size="8px">7</text>
+   <text text-anchor="start" font-size="10" transform="translate(280,3490) rotate(-45)">Châtelet</text>
+   <circle cx="280" cy="3500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="215" y1="3500" x2="275" y2="3500" stroke="green" stroke_width="4"></line>
+   <line x1="280" y1="3517" x2="280" y2="3503" stroke="red" stroke_width="3"></line>
+   <circle cx="280" cy="3520" stroke="red" fill="red" r="7"></circle>
+   <text x="278" y="3522" base-alignment="middle" font-size="8px">1</text>
+   <line x1="280" y1="3537" x2="280" y2="3523" stroke="red" stroke_width="3"></line>
+   <circle cx="280" cy="3540" stroke="red" fill="red" r="7"></circle>
+   <text x="278" y="3542" base-alignment="middle" font-size="8px">4</text>
+   <line x1="280" y1="3557" x2="280" y2="3543" stroke="red" stroke_width="3"></line>
+   <circle cx="280" cy="3560" stroke="red" fill="red" r="7"></circle>
+   <text x="278" y="3562" base-alignment="middle" font-size="8px">7</text>
+   <line x1="280" y1="3577" x2="280" y2="3563" stroke="red" stroke_width="3"></line>
+   <circle cx="280" cy="3580" stroke="red" fill="red" r="7"></circle>
+   <text x="278" y="3582" base-alignment="middle" font-size="8px">11</text>
+   <text text-anchor="start" font-size="10" transform="translate(350,3490) rotate(-45)">Gare de Lyon</text>
+   <circle cx="350" cy="3500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="285" y1="3500" x2="345" y2="3500" stroke="green" stroke_width="4"></line>
+   <line x1="350" y1="3517" x2="350" y2="3503" stroke="red" stroke_width="3"></line>
+   <circle cx="350" cy="3520" stroke="red" fill="red" r="7"></circle>
+   <text x="348" y="3522" base-alignment="middle" font-size="8px">1</text>
+   <text text-anchor="start" font-size="10" transform="translate(420,3490) rotate(-45)">Bercy</text>
+   <circle cx="420" cy="3500" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="355" y1="3500" x2="415" y2="3500" stroke="green" stroke_width="4"></line>
+   <line x1="420" y1="3517" x2="420" y2="3503" stroke="red" stroke_width="3"></line>
+   <circle cx="420" cy="3520" stroke="red" fill="red" r="7"></circle>
+   <text x="418" y="3522" base-alignment="middle" font-size="8px">6</text>
+   <text text-anchor="start" font-size="10" transform="translate(490,3490) rotate(-45)">Cour Saint-Emilion</text>
+   <circle cx="490" cy="3500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="425" y1="3500" x2="485" y2="3500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(560,3490) rotate(-45)">Bibliothèque-François Mitterrand</text>
+   <circle cx="560" cy="3500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="495" y1="3500" x2="555" y2="3500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(630,3490) rotate(-45)">Olympiades</text>
+   <circle cx="630" cy="3500" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="565" y1="3500" x2="625" y2="3500" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(70,3630) rotate(0)">Ligne: 3B - PORTE DES LILAS -- GAMBETTA</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,3740) rotate(-45)">Porte des Lilas</text>
+   <circle cx="70" cy="3750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="70" y1="3767" x2="70" y2="3753" stroke="red" stroke_width="3"></line>
+   <circle cx="70" cy="3770" stroke="red" fill="red" r="7"></circle>
+   <text x="68" y="3772" base-alignment="middle" font-size="8px">11</text>
+   <text text-anchor="start" font-size="10" transform="translate(140,3740) rotate(-45)">Saint-Fargeau</text>
+   <circle cx="140" cy="3750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="3750" x2="135" y2="3750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,3740) rotate(-45)">Pelleport</text>
+   <circle cx="210" cy="3750" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="3750" x2="205" y2="3750" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,3740) rotate(-45)">Gambetta</text>
+   <circle cx="280" cy="3750" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="215" y1="3750" x2="275" y2="3750" stroke="green" stroke_width="4"></line>
+   <line x1="280" y1="3767" x2="280" y2="3753" stroke="red" stroke_width="3"></line>
+   <circle cx="280" cy="3770" stroke="red" fill="red" r="7"></circle>
+   <text x="278" y="3772" base-alignment="middle" font-size="8px">3</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,3880) rotate(0)">Ligne: 7B - PRE-SAINT-GERVAIS -- LOUIS BLANC</text>
+   <text text-anchor="start" font-size="10" transform="translate(70,3990) rotate(-45)">Pré-Saint-Gervais</text>
+   <circle cx="70" cy="4000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <text text-anchor="start" font-size="10" transform="translate(140,3990) rotate(-45)">Danube</text>
+   <circle cx="140" cy="4000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="75" y1="4000" x2="135" y2="4000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(210,3990) rotate(-45)">Botzaris</text>
+   <circle cx="210" cy="4000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="145" y1="4000" x2="205" y2="4000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(280,3990) rotate(-45)">Buttes-Chaumont</text>
+   <circle cx="280" cy="4000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="215" y1="4000" x2="275" y2="4000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(350,3990) rotate(-45)">Bolivar</text>
+   <circle cx="350" cy="4000" stroke="black" r="5" fill="white" stroke_width="2"></circle>
+   <line x1="285" y1="4000" x2="345" y2="4000" stroke="green" stroke_width="4"></line>
+   <text text-anchor="start" font-size="10" transform="translate(420,3990) rotate(-45)">Jaurès</text>
+   <circle cx="420" cy="4000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="355" y1="4000" x2="415" y2="4000" stroke="green" stroke_width="4"></line>
+   <line x1="420" y1="4017" x2="420" y2="4003" stroke="red" stroke_width="3"></line>
+   <circle cx="420" cy="4020" stroke="red" fill="red" r="7"></circle>
+   <text x="418" y="4022" base-alignment="middle" font-size="8px">2</text>
+   <line x1="420" y1="4037" x2="420" y2="4023" stroke="red" stroke_width="3"></line>
+   <circle cx="420" cy="4040" stroke="red" fill="red" r="7"></circle>
+   <text x="418" y="4042" base-alignment="middle" font-size="8px">5</text>
+   <text text-anchor="start" font-size="10" transform="translate(490,3990) rotate(-45)">Louis Blanc</text>
+   <circle cx="490" cy="4000" stroke="black" r="5" fill="blue" stroke_width="4"></circle>
+   <line x1="425" y1="4000" x2="485" y2="4000" stroke="green" stroke_width="4"></line>
+   <line x1="490" y1="4017" x2="490" y2="4003" stroke="red" stroke_width="3"></line>
+   <circle cx="490" cy="4020" stroke="red" fill="red" r="7"></circle>
+   <text x="488" y="4022" base-alignment="middle" font-size="8px">7</text></svg>
